@@ -232,7 +232,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void gotoLB (View view){
-        Intent intent = new Intent(this, screen45.class);
+        Intent intent = new Intent(this, screen49.class);
         startActivity(intent);
     }
 

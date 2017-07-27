@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Jul 27 16:52:40 CEST 2017
+#Thu Jul 27 17:48:15 CEST 2017
 20.base=/Users/creation/Desktop/MyApplication/app/build/intermediates/res/resources-debug.ap_
 143.base=/Users/creation/Desktop/MyApplication/app/build/intermediates/res/resources-debug.ap_
 493.base=/Users/creation/Desktop/MyApplication/app/build/intermediates/res/resources-debug.ap_
