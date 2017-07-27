@@ -1,4 +1,4 @@
-#Thu Jul 27 13:05:53 CEST 2017
+#Thu Jul 27 16:52:39 CEST 2017
 base.0=/Users/creation/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
 renamed.0=classes.dex
 file.0=/Users/creation/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

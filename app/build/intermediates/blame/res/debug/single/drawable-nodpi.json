@@ -100,6 +100,10 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot47.png"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/benaz.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/benaz.png"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot11.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot11.png"
     },

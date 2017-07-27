@@ -97,12 +97,12 @@
 
     <ImageView
         android:id="@+id/imgBenaz"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_above="@+id/textView114"
-        android:layout_alignParentStart="true"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/button1"
         android:layout_below="@+id/textView111"
+        android:layout_centerHorizontal="true"
         android:visibility="invisible"
-        app:srcCompat="@drawable/icon_hd" />
+        app:srcCompat="@drawable/benaz" />
 
 </RelativeLayout>
