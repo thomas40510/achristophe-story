@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">A Christophe Story</string>
+    <string name="title_activity_allimages">allimages</string>
+    <string name="action_settings">Crédits</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="title_activity_stupid2">SURPRISE MOTHER FUCKER !!</string>
+    <string name="dummy_button">Arrêter le massacre !!</string>
+    <string name="dummy_content">DUMMY\n\nCONTENT</string>
+    <string name="title_activity_intro">Petite Introduction...</string>
+    <string name="txt_intro">
+        "   Laissez-moi vous présenter une légende parmis nous.\n\n"
+
+        "   Vous allez pouvoir suivre, tout au long de votre aventure, l\'histoire d\'un homme,"
+        "que vous pensez connaître. Mais il va s\'avérer que ce que vous pensiez de lui n\'est rien.\n\n"
+
+        "   Nous avons donc réuni dans cette aventure tout ce qu\'il vous faut pour le voir sous"
+        "son vrai visage. Mais avant de rentrer dans le vif du sujet, laissez-moi vous planter le décor.\n\n"
+
+        "   Remontons d\'abord il y a un an, lors de la naissance de cette légende. Le jour où la conscience"
+        "collective apprit la vérité, et se brisa. La frite belge, qu\'ils pensaient d\'avantage être une potatoes qu\'une réelle"
+        "frite, s\'avère en réalité mesurer, selon son possesseur, (dont nous ne citerons pas le nom, bien que celui-ci"
+        "soit obvious pour tous, car ne voulant pas avoir des avocats au cul) la longueur bien connue désormais de 22 centimètres.\n\n""
+
+        "   Mais cette odieuse vérité cachait en réalité un mensonge retentissant.\n\n"
+
+        "   De par des sources sûres, nous pouvons désormais informer la conscience collective de la supercherie."
+        "Nous avons appris de fil en aiguille que le cuisinier, peu précis dans ses mesures, aurait toisé le tubercule avec les"
+        "moyens du bord, soit un mètre de couture, supposément mal déplié ! Il nous aurait donc trompé sur la marchandise ?\n\n"
+
+        "   Je vais maintenant vous parler de ce qui constitue la base de cette aventure.\n\n"
+
+        "   Il y a quelques temps, il fut pris de passions secrètes pour une chèvre (pour des raisons de confidentialité,nous ne citerons pas son nom, bien qu\'il commence par \'Isa\' et se finisse par \'line\'). Il commenca donc à lui parler. Que dis-je, la spammer !"
+        "Ainsi, dès son lever, elle avait des messages de lui, et ce jusqu\'à son coucher (à 18h00)."
+        "Il lui avoua alors de nombreuses choses qui n\'appartenaient pas toujours au champ lexical de la chrétienté."
+        "Ses intentions commençaient alors à prendre forme (un rectangle de 22cm de côté, Note de la Rédaction). Mais se posait alors un problème : le cœur de cette fameuse chèvre était déjà occupé par un jeune bouc (-25% sur les peluches Bouc chez Centrakor, avec le code \'GIRAFE\')."
+        "La chèvre se sentant pousser des bois (ce qui n\'est pas normal pour une chèvre, Note du Zoophile), pour son compagnon c\'était le bouc-quet !\n\n"
+
+        "   Il fallait donc agir ! C\'est ainsi que, désespérés ils firent appel à une équipe de justiciers, prêts à tout pour vaincre le spam.\n\n"
+
+        "   Ils mirent en place un habile stratagème, et firent alors passer le numéro d\'un de leurs agents pour celui de ladite chèvre. (ne nous demandez pas comment ça a pu passer, on y croit toujours pas nous-même)\n\n"
+
+        "   L\'histoire que vous vous apprêtez à lire relate les conversations échangées entre eux. Tout ce que vous lirez est vrai,ce sont les screenshots originales fournies par notre agent."
+        "Sur ce, nous vous souhaitons une bonne lecture.\n\n"
+
+        "   Cordialement, l\'équipe des \'meilleurs\'\n\n"
+    </string>
+    <string name="easterrules">
+        "  - La chasse aux oeufs débute le dimanche de Pâques (16 Avril). Elle se finit le Lundi (17 Avril)\n\n"
+        "  - Le but est de trouver les 2 oeufs. Un apparaît le Dimanche, l'autre le Lundi.\n\n"
+        "  - Un achievement s'unlockera une fois les deux oeufs trouvés.\n\n"
+        "  - Bien sûr, l'oeuf du Dimanche ne peut se trouver que le Dimanche, et celui du Lundi que le Lundi.\n\n"
+        "  - Une fois l'achievement débloqué, il faut m'envoyer une screenshot en message (via l'app)\n\n"
+        "  - Le premier à m'envoyer cette screenshot gagnera un café (en plus d'avoir un achievement unique ^^\n\n\n\n"
+        "  PS : il est indispensable d'être connecté à internet pour faire apparaître les oeufs en temps voulu."
+    </string>
+    <string name="credits_title">\"Le Spectacle\" - Crédits</string>
+    <string name="title_activity_achievements">Achievements</string>
+
+    <string name="resume1">
+        "C’est alors que Christophe se mit à la recherche de l’hypothétique “remplaçant”. Recherche d'autant plus compliquée par le nombre de personnes constituant le groupe…#LOL\n\n"
+        "S'emballe alors l'imagination perverse de l'intéressé, pensant que la vision de la chèvre pour lui n'aurait d'égale que la précédente dénomination de ce dernier.\n\n"
+        "Il va cependant, dans un accès de raison relative, se reconcentrer sur son objectif premier...\n\n"
+    </string>
+
+</resources>

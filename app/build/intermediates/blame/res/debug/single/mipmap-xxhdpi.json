@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/icon.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/mipmap-xxhdpi/icon.png"
+    }
+]

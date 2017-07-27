@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_screen17"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.studioquaiouest.myapplication.screen17">
+
+    <TextView
+        android:text="C'est la fin !"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView13"
+        android:textStyle="normal|bold"
+        android:textAllCaps="true"
+        android:textSize="18sp"
+        android:textColor="@android:color/holo_red_dark" />
+
+    <TextView
+        android:text="Cette page marque la fin de cette version... Plus de contenu arrive plus tard !"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView13"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="21dp"
+        android:id="@+id/textView14"
+        android:textSize="16sp"
+        android:textColor="@android:color/holo_green_dark" />
+
+    <Button
+        android:text="retour au début !"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView15"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="44dp"
+        android:id="@+id/button4"
+        android:layout_alignParentEnd="true"
+        android:onClick="gotoMain" />
+
+    <TextView
+        android:text="Get device FCM"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tokentxt"
+        android:textSize="14sp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:clickable="true"
+        android:onClick="gettoken" />
+
+    <TextView
+        android:text="Il paraît que personne lit ce que j'écris en rouge, donc j'ai changé de couleur ^^"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView21"
+        android:textSize="16sp"
+        android:textColor="@android:color/holo_green_dark"
+        android:layout_below="@+id/textView14"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="6dp" />
+
+    <TextView
+        android:text="Cordialement, sourire ;)"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/textView15"
+        android:textSize="16sp"
+        android:textColor="@android:color/holo_green_dark"
+        android:layout_below="@+id/textView21"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:text="Voir les crédits"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/button4"
+        android:layout_alignParentStart="true"
+        android:id="@+id/button10"
+        android:layout_alignParentEnd="true"
+        android:onClick="gotoCredits" />
+
+    <Button
+        android:id="@+id/button15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:onClick="resetit"
+        android:text="Reset" />
+
+</RelativeLayout>

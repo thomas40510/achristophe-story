@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>loading_phrase</key>
+        <value>Connecting...</value>
+    </entry>
+    <entry>
+        <key>welcome_message</key>
+        <value>Bienvenue !</value>
+    </entry>
+    <entry>
+        <key>update_message</key>
+        <value>Update</value>
+    </entry>
+    <entry>
+        <key>update_link</key>
+        <value>http://google.com</value>
+    </entry>
+    <entry>
+        <key>enable_easter</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>easter_day</key>
+        <value>day0</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->

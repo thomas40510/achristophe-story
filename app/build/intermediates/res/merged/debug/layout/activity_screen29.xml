@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="5dp"
+    tools:context="com.example.studioquaiouest.myapplication.screen29">
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/txtNumber"
+        android:layout_alignBottom="@+id/txtNumber"
+        android:layout_alignParentEnd="true"
+        android:onClick="Verif"
+        android:text="C'est celui-là" />
+
+    <EditText
+        android:id="@+id/txtNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="65dp"
+        android:ems="10"
+        android:inputType="phone"
+        android:layout_below="@+id/textView116"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/button21" />
+
+    <TextView
+        android:id="@+id/textView115"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Dans cette histoire, les screenshots ont été prises par notre infilré, celui qui a eu le courage de prendre contact avec le Belge." />
+
+    <TextView
+        android:id="@+id/textView116"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView115"
+        android:text="Mais dans cette histoire, il en a perdu son numéro ! Quel est donc le numéro de téléphone de notre cher P-A ?" />
+
+    <ImageView
+        android:id="@+id/imgWrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button21"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/no" />
+</RelativeLayout>

@@ -1,0 +1,148 @@
+package com.example.studioquaiouest.myapplication;
+
+import android.content.Context;
+import android.content.Intent;
+import android.os.Vibrator;
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
+import android.view.View;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
+import android.widget.Button;
+
+import io.smooch.ui.ConversationActivity;
+
+public class screen23 extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_screen23);
+    }
+
+    /**
+     * Actions for toolbar menu
+     */
+    @Override
+    //load menu file//
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu_intro, menu); //your file name
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    //set on-click actions//
+    public boolean onOptionsItemSelected(final MenuItem item) {
+
+        switch (item.getItemId()) {
+            case R.id.open_credits:
+                Intent credits = new Intent(this, credits.class);
+                startActivity(credits);
+                return true;
+            case R.id.open_achievements:
+                Intent achieve = new Intent(this, achievements.class);
+                startActivity(achieve);
+                return true;
+            case R.id.open_Smooch:
+                ConversationActivity.show(this);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+
+    public View view;
+    public int buttonID;
+    public int resID, prevId;
+
+    private Animation fadeout;
+    private Animation fadein;
+
+    public void wrong1 (View view){
+        buttonID = 1;
+        Exec(view);
+    }
+    public void wrong2 (View view){
+        buttonID = 2;
+        Exec(view);
+    }
+    public void wrong3 (View view){
+        buttonID = 4;
+        Exec(view);
+    }
+    public void true1 (View view){
+        buttonID = 3;
+        Exec(view);
+    }
+
+    public void Exec (View view){
+        String ButtonName = "button"+buttonID;
+        resID = getResources().getIdentifier(ButtonName, "id", getPackageName());
+        final Button button = (Button)findViewById(resID);
+
+        fadeout = AnimationUtils.loadAnimation(this, R.anim.fadeout);
+        fadeout.setDuration(1000);
+        fadeout.setAnimationListener(new Animation.AnimationListener() {
+            public void onAnimationStart(Animation animation) {}
+            public void onAnimationRepeat(Animation animation) {}
+            public void onAnimationEnd(Animation animation) {
+            }
+        });
+
+        fadein = AnimationUtils.loadAnimation(this, R.anim.fadein);
+        fadein.setDuration(1000);
+        fadein.setAnimationListener(new Animation.AnimationListener() {
+            public void onAnimationStart(Animation animation) {
+            }
+            public void onAnimationRepeat(Animation animation) {
+            }
+            public void onAnimationEnd(Animation animation) {
+            }
+        });
+
+        if (prevId != resID) {
+            switch (buttonID) {
+                case 1:
+                    button.startAnimation(fadeout);
+                    button.setText("Ta mère");
+                    button.startAnimation(fadein);
+                    prevId = resID;
+                    break;
+                case 2:
+                    button.startAnimation(fadeout);
+                    button.setText("Mr Bénazet");
+                    button.startAnimation(fadein);
+                    findViewById(R.id.imgBenaz).setVisibility(View.VISIBLE);
+                    prevId = resID;
+                    break;
+                case 3:
+                    findViewById(R.id.imgBenaz).setVisibility(View.INVISIBLE);
+                    gotoNext(view);
+                    break;
+                case 4:
+                    button.startAnimation(fadeout);
+                    button.setText("Ton chien");
+                    button.startAnimation(fadein);
+                    prevId = resID;
+                    break;
+            }
+        } else {
+            Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            v.vibrate(300);
+        }
+    }
+
+    public void gotoNext (View view){
+        Intent intent = new Intent(this, screenshots.class);
+        int i = 7;
+        int s = 25;
+        intent.putExtra("screenshot", i)
+                .putExtra("next", s);
+        startActivity(intent);
+    }
+}
