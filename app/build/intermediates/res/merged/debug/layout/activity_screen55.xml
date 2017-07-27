@@ -4,16 +4,85 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="5dp"
     tools:context="com.example.studioquaiouest.myapplication.screen55">
 
     <Button
         android:id="@+id/button32"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="gotoNext"
-        android:text="Button"
-        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
+        android:onClick="isWrong"
+        android:text="un desert eagle™" />
+
+    <TextView
+        android:id="@+id/textView130"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Imaginons que vous nayez pas votre Bac... Hypothèse, hypothèse..." />
+
+    <TextView
+        android:id="@+id/textView138"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView130"
+        android:text="C'est quoi le meilleur moyen de se suicider ?"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/bWrong2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button32"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:onClick="isWrong"
+        android:text="Un peu de cyanure..." />
+
+    <Button
+        android:id="@+id/bWrong1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bWrong2"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:onClick="isWrong"
+        android:text="Un tabouret et une corde !" />
+
+    <Button
+        android:id="@+id/bTrue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bWrong1"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:onClick="isTrue"
+        android:text="Une falaise !" />
+
+    <TextView
+        android:id="@+id/textView143"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView138"
+        android:text="(sachant qu'on est le personnage principal d'une application qui se fout de notre gueule)"
+        android:textSize="12sp" />
+
+    <ImageView
+        android:id="@+id/imgWrong"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bTrue"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView143"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/mlpno" />
 
 </RelativeLayout>

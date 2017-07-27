@@ -20,6 +20,10 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/nietzsche.png"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/lechat_nope.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/lechat_nope.png"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot21.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot21.png"
     },
@@ -198,6 +202,10 @@
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/walloonregion.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/walloonregion.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/mlpno.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/mlpno.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot29.png",
