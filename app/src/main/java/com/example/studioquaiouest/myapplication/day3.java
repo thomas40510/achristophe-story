@@ -51,7 +51,7 @@ public class day3 extends AppCompatActivity {
     }
 
     public void gotoNext (View view){
-        Intent intent = new Intent(this, screen39.class);
+        Intent intent = new Intent(this, screenlast.class);
         startActivity(intent);
     }
 }

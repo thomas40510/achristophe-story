@@ -23,15 +23,15 @@
         android:textColor="@android:color/holo_red_dark" />
 
     <TextView
-        android:text="Cette page marque la fin de cette version... Plus de contenu arrive plus tard !"
+        android:id="@+id/textView14"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/textView13"
         android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView13"
         android:layout_marginTop="21dp"
-        android:id="@+id/textView14"
-        android:textSize="16sp"
-        android:textColor="@android:color/holo_green_dark" />
+        android:text="Cette page marque la fin de cette version... Les épisodes suivants arrivent avant la fin du mois d'Août !"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="16sp" />
 
     <Button
         android:text="retour au début !"
@@ -56,26 +56,26 @@
         android:onClick="gettoken" />
 
     <TextView
-        android:text="Il paraît que personne lit ce que j'écris en rouge, donc j'ai changé de couleur ^^"
+        android:id="@+id/textView21"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/textView21"
-        android:textSize="16sp"
-        android:textColor="@android:color/holo_green_dark"
-        android:layout_below="@+id/textView14"
         android:layout_alignParentStart="true"
-        android:layout_marginTop="6dp" />
+        android:layout_below="@+id/textView14"
+        android:layout_marginTop="6dp"
+        android:text="Il paraît que personne lit ce que j'écris en rouge, donc j'ai changé de couleur ^^"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="16sp" />
 
     <TextView
-        android:text="Cordialement, sourire ;)"
+        android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
-        android:id="@+id/textView15"
-        android:textSize="16sp"
-        android:textColor="@android:color/holo_green_dark"
+        android:layout_alignParentEnd="true"
         android:layout_below="@+id/textView21"
-        android:layout_alignParentEnd="true" />
+        android:layout_marginTop="15dp"
+        android:text="Cordialement, sourire ;)"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="16sp" />
 
     <Button
         android:text="Voir les crédits"

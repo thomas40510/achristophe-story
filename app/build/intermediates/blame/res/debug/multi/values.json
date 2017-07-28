@@ -6356,14 +6356,7 @@
                     "endOffset": 90256
                 },
                 "from": {
-                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 64,
-                        "endOffset": 750
-                    }
+                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/strings.xml"
                 }
             },
             {
@@ -7467,7 +7460,14 @@
                     "endOffset": 97378
                 },
                 "from": {
-                    "file": "/Users/creation/Desktop/MyApplication/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml"
+                    "file": "/Users/creation/Desktop/MyApplication/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 303,
+                        "endColumn": 162,
+                        "endOffset": 465
+                    }
                 }
             },
             {

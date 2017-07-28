@@ -27,35 +27,6 @@ public class epilogue extends AppCompatActivity {
 
         e = 63;
         setEpi();
-
-
-
-    }
-    private Animation fadeout;
-    private Animation fadein;
-
-    public void setEpi (){
-
-        if (e!=63) {
-            fadein = AnimationUtils.loadAnimation(this, R.anim.fadein);
-            fadein.setAnimationListener(new Animation.AnimationListener() {
-                public void onAnimationStart(Animation animation) {
-                }
-                public void onAnimationRepeat(Animation animation) {
-                }
-                public void onAnimationEnd(Animation animation) {
-                }
-            });
-            findViewById(R.id.imageView3).startAnimation(fadein);
-        }
-
-
-        uri = "@drawable/epi"+e;
-        int ImageRessource = getResources().getIdentifier(uri, null, getPackageName());
-        ImageView imageView = (ImageView) findViewById(R.id.imageView3);
-        Drawable res = getResources().getDrawable(ImageRessource);
-
-        imageView.setImageDrawable(res);
     }
 
     /**
@@ -89,6 +60,35 @@ public class epilogue extends AppCompatActivity {
                 return super.onOptionsItemSelected(item);
         }
     }
+
+    private Animation fadeout;
+    private Animation fadein;
+
+    public void setEpi (){
+
+        if (e!=63) {
+            fadein = AnimationUtils.loadAnimation(this, R.anim.fadein);
+            fadein.setAnimationListener(new Animation.AnimationListener() {
+                public void onAnimationStart(Animation animation) {
+                }
+                public void onAnimationRepeat(Animation animation) {
+                }
+                public void onAnimationEnd(Animation animation) {
+                }
+            });
+            findViewById(R.id.imageView3).startAnimation(fadein);
+        }
+
+
+        uri = "@drawable/epi"+e;
+        int ImageRessource = getResources().getIdentifier(uri, null, getPackageName());
+        ImageView imageView = (ImageView) findViewById(R.id.imageView3);
+        Drawable res = getResources().getDrawable(ImageRessource);
+
+        imageView.setImageDrawable(res);
+    }
+
+
 
     public void gotoNext (View view) {
 

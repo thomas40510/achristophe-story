@@ -7,12 +7,17 @@ import android.provider.Settings;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.Chronometer;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import io.smooch.ui.ConversationActivity;
 
 import static java.lang.Math.toIntExact;
 
@@ -29,6 +34,39 @@ public class screen45 extends AppCompatActivity {
 
         setButton();
     }
+
+    /**
+     * Actions for toolbar menu
+     */
+    @Override
+    //load menu file//
+    public boolean onCreateOptionsMenu(Menu menu) {
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.menu_intro, menu); //your file name
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    //set on-click actions//
+    public boolean onOptionsItemSelected(final MenuItem item) {
+
+        switch (item.getItemId()) {
+            case R.id.open_credits:
+                Intent credits = new Intent(this, credits.class);
+                startActivity(credits);
+                return true;
+            case R.id.open_achievements:
+                Intent achieve = new Intent(this, achievements.class);
+                startActivity(achieve);
+                return true;
+            case R.id.open_Smooch:
+                ConversationActivity.show(this);
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
 
     public void setButton (){
         spamCount = 0;
