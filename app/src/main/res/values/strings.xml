@@ -4,6 +4,13 @@
     <string name="action_settings">Crédits</string>
     <string name="section_format">Hello World from section: %1$d</string>
 
+
+    <string name="Smooch_activityConversation">Messages</string>
+    <string name="Smooch_startOfConversation">This is the start of your conversation with the \"A Christophe Story\" team. We\'ll stay in touch to help you get the most of our app.</string>
+    <string name="Smooch_welcome">Feel free to leave us a message about anything that\'s on your mind. We\'ll do anything we can to help you. Your code is 317986.</string>
+    <string name="Smooch_messageHint">Ton message ici !</string>
+
+
     <string name="title_activity_stupid2">SURPRISE MOTHER FUCKER !!</string>
     <string name="dummy_button">Arrêter le massacre !!</string>
     <string name="dummy_content">DUMMY\n\nCONTENT</string>
