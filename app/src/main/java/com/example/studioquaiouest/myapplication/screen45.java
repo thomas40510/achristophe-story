@@ -117,6 +117,7 @@ public class screen45 extends AppCompatActivity {
                 } else {
                     Button button = (Button) findViewById(R.id.buttonSpam);
                     button.setText("Vérifier");
+                    handler.removeCallbacks(runnable);
                 }
                 handler.postDelayed(this, delay);
             }

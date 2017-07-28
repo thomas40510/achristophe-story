@@ -1,4 +1,4 @@
-#Fri Jul 28 10:28:25 CEST 2017
+#Fri Jul 28 18:33:48 CEST 2017
 base.0=/Users/creation/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_372be4bc72efd485967fb7a239dc44a3fffd6836
 renamed.1=classes2.dex
 renamed.0=classes.dex

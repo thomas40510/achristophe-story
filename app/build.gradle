@@ -23,7 +23,7 @@ android {
         minSdkVersion 23
         targetSdkVersion 25
         versionCode 2
-        versionName "Beta_05"
+        versionName "Dev"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         //enable multidex support
         multiDexEnabled true

@@ -4,12 +4,12 @@
         "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_close_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/ic_expand.xml"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
         "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
+        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/ic_expand.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
@@ -28,12 +28,12 @@
         "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_ab_back_material.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",

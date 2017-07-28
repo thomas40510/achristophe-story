@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.studioquaiouest.myapplication"
     android:versionCode="2"
-    android:versionName="Beta_05" >
+    android:versionName="Dev" >
 
     <uses-sdk
         android:minSdkVersion="23"

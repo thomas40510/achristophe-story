@@ -20,12 +20,12 @@
         "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable-hdpi-v4/cast_ic_stop_circle_filled_white.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/discover.png",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable-hdpi-v4/discover.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_stop_white_24.png",
         "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable-hdpi-v4/quantum_ic_stop_white_24.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/discover.png",
+        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable-hdpi-v4/discover.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/quantum_ic_replay_30_white_24.png",
@@ -36,12 +36,12 @@
         "source": "/Users/creation/.android/build-cache/6a32bd8f514d75b748ef2d23d39191ceae14abe5/output/res/drawable-hdpi-v4/cast_ic_notification_1.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_tv_light.png",
         "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-hdpi-v4/ic_tv_light.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_cast_disabled_light.png",

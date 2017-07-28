@@ -125,7 +125,7 @@ MERGED from [com.android.support:support-compat:25.1.0] /Users/creation/.android
 	android:theme
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:16:9-40
 	android:name
-		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:11:9-76
 activity#com.example.studioquaiouest.myapplication.MainActivity
 ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:17:9-23:20
 	android:name
