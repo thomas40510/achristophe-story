@@ -168,9 +168,9 @@ public class screen51 extends AppCompatActivity {
 
         if (f >= 7){
             AlertDialog.Builder done = new AlertDialog.Builder(this);
-            done.setTitle("Bravo !")
-                    .setMessage("Vous avez lutté activement contre le spam, aidant activement notre équipe dans sa tâche quotidienne, dans le but de rendre le monde meilleur. Merci.")
-                    .setPositiveButton("On passe à la suite !", new DialogInterface.OnClickListener() {
+            done.setTitle("Merci, merci, merci !!")
+                    .setMessage("Vous avez encore une fois donné un coup de main non négligeable à notre équipe. Un grand merci à vous !")
+                    .setPositiveButton("Y'a pas de quoi !", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
                             gotoNext(view);
@@ -179,8 +179,8 @@ public class screen51 extends AppCompatActivity {
             done.show();
         } else {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
-            builder.setTitle("Vite, vite, vite !!!")
-                    .setMessage("C'est pas à cette vitesse que tu vas empêcher le spam !")
+            builder.setTitle("Plus vite soldat !")
+                    .setMessage("Je connais des petits chinois payés 3centimes par jour qui feraient ça plus rapidement que toi !")
                     .setPositiveButton("Je retente !", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
@@ -194,7 +194,7 @@ public class screen51 extends AppCompatActivity {
 
     public void showHelp (View view){
         AlertDialog.Builder help = new AlertDialog.Builder(this);
-        help.setTitle("Kécécé kifofèr ?")
+        help.setTitle("Kécécé kifofèr des jà ?")
                 .setMessage("On est ici pour lutter contre le spam... Il faut tout simplement cliquer le plus rapidement possible sur les messages pour supprimer les spams.")
                 .setPositiveButton("C Kompri !", new DialogInterface.OnClickListener() {
                     @Override

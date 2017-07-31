@@ -6,19 +6,19 @@
     density="560dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1501488253880"
+    timestamp="1501511177691"
     token="6891032487183261158"
     verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="263" />
+        duration="361" />
     <task
         name="instant-run-dex"
-        duration="4" />
+        duration="7" />
     <task
         name="instant-run-transform"
-        duration="3" />
+        duration="8" />
     <task
         name="verifier"
         duration="1" />
@@ -29,14 +29,26 @@
 
     <build
         build-mode="FULL"
-        timestamp="1501483286592"
+        timestamp="1501505714246"
         verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
+            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            type="SPLIT" />
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
+        <artifact
+            location="/Users/creation/Desktop/MyApplication/app/build/outputs/apk/app-debug.apk"
+            type="SPLIT_MAIN" />
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_1.apk"
             type="SPLIT" />
@@ -44,19 +56,10 @@
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
-        <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -64,22 +67,19 @@
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_8.apk"
             type="SPLIT" />
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/outputs/apk/app-debug.apk"
-            type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501486977649"
+        timestamp="1501510090611"
         verifier="R_CLASS_CHANGE" >
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_4.apk"
+            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_7.apk"
@@ -87,119 +87,23 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501487393838"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1501510454091"
+        verifier="R_CLASS_CHANGE" >
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/outputs/apk/app-debug.apk"
             type="SPLIT_MAIN" />
     </build>
     <build
         build-mode="COLD"
-        timestamp="1501487639187"
-        verifier="COLD_SWAP_REQUESTED" >
+        timestamp="1501511057365"
+        verifier="FIELD_ADDED" >
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
     </build>
     <build
         build-mode="HOT_WARM"
-        timestamp="1501487722974"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501487722974/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501487781910"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501487781910/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501487817877"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501487817877/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501487832662"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501487832662/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501487914536"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501487914536/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501487968784"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501487968784/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501488054049"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501488054049/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501488074643"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501488074643/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501488107538"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501488107538/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501488163589"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501488163589/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501488203611"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501488203611/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501488229745"
-        verifier="COMPATIBLE" >
-        <artifact
-            location="/Users/creation/Desktop/MyApplication/app/build/intermediates/builds/debug/1501488229745/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build
-        build-mode="HOT_WARM"
-        timestamp="1501488253880"
+        timestamp="1501511177691"
         verifier="COMPATIBLE" >
         <artifact
             location="/Users/creation/Desktop/MyApplication/app/build/intermediates/reload-dex/debug/classes.dex"

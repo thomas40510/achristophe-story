@@ -1,5 +1,6 @@
 package com.example.studioquaiouest.myapplication;
 
+import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.provider.MediaStore;
@@ -9,6 +10,8 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
+import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.VideoView;
 
@@ -54,9 +57,10 @@ public class screen61 extends AppCompatActivity {
         }
     }
 
+    EditText codeTxt;
 
     public void Verif (View view){
-        TextView codeTxt = (TextView) findViewById(R.id.txtCode);
+        codeTxt = (EditText) findViewById(R.id.txtCode);
         int code = Integer.parseInt(codeTxt.getText().toString());
 
         VideoView vid = (VideoView) findViewById(R.id.vidWrong);
@@ -64,13 +68,23 @@ public class screen61 extends AppCompatActivity {
         if (code == 317986){
             vid.setVisibility(View.INVISIBLE);
             vid.stopPlayback();
+            hideEmpty();
             gotoNext(view);
         } else {
             vid.setVisibility(View.VISIBLE);
+            hideEmpty();
             Uri uri = Uri.parse("android.resource://"+getPackageName()+"/"+R.raw.nogod);
             vid.setVideoURI(uri);
             vid.start();
         }
+    }
+
+    public void hideEmpty (){
+        InputMethodManager inputManager = (InputMethodManager)
+                getSystemService(Context.INPUT_METHOD_SERVICE);
+        inputManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),
+                InputMethodManager.HIDE_NOT_ALWAYS);
+        codeTxt.setText("");
     }
 
     public void gotoNext (View view){

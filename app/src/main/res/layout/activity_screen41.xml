@@ -4,15 +4,78 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="5dp"
     tools:context="com.example.studioquaiouest.myapplication.screen41">
 
     <Button
         android:id="@+id/button26"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="gotoNext"
-        android:text="Button"
-        android:layout_alignParentTop="true"
+        android:onClick="Verif"
+        android:text="Je valide !"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView162"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentTop="true"
+        android:text="La première version de cette application, ainsi que sa toute première version officielle ont été codées au même endroit..." />
+
+    <TextView
+        android:id="@+id/textView163"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView162"
+        android:text="Il s'agit des locaus d'Apogée Conseils à Perpignan. Mais cette agence n'a pas toujours porté ce nom..." />
+
+    <TextView
+        android:id="@+id/textView164"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView163"
+        android:text="Elle s'est d'abord appelée &quot;Quai Ouest&quot;, de par sa localisation." />
+
+    <TextView
+        android:id="@+id/textView165"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView164"
+        android:text="Lorsqu'on est bloqué, il est toujours bon de revenir aux sources, pour trouver des réponses qui auraient pu nous manquer... sauf quand internet a la réponse." />
+
+    <EditText
+        android:id="@+id/txtCode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Le code ici..."
+        android:inputType="numberPassword"
+        android:layout_above="@+id/button26"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button39"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:onClick="showHelp"
+        android:text="J'ai besoin d'identifiants" />
+
+    <VideoView
+        android:id="@+id/vidWrong"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/button39"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button26"
+        android:visibility="invisible" />
+
 </RelativeLayout>

@@ -10,5 +10,13 @@
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/rlynigga.mp4",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/rlynigga.mp4"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/nope.mp4",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/nope.mp4"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/stromae.mp4",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/stromae.mp4"
     }
 ]

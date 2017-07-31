@@ -91,7 +91,7 @@ public class screen45 extends AppCompatActivity {
                     } else {
                         if (time == 5) {
                             Verif(view);
-                        } Toast.makeText(getApplicationContext(), "end", Toast.LENGTH_SHORT).show();
+                        }
                     }
                 }
 

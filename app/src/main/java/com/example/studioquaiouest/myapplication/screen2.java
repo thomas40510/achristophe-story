@@ -95,8 +95,8 @@ public class screen2 extends AppCompatActivity {
     }
     /**public void gotoScreen3 (View view) {
 
-        String uri = "@drawable/screenshot00"+i;
-        int ImageRessource = getResources().getIdentifier(uri, null, getPackageName());
+        String vidLink = "@drawable/screenshot00"+i;
+        int ImageRessource = getResources().getIdentifier(vidLink, null, getPackageName());
         ImageView imageView = (ImageView) findViewById(R.id.imageView4);
         Drawable res = getResources().getDrawable(ImageRessource);
         imageView.setImageDrawable(res);

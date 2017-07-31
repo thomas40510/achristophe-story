@@ -33,7 +33,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView147"
-        android:text="Il se peutmême qu'ils nous fournissent des informations précieuses, essentielles au bon fonctionnement de l'application." />
+        android:text="Il se peut même qu'ils nous fournissent des informations précieuses, essentielles au bon fonctionnement de l'application." />
 
     <TextView
         android:id="@+id/textView151"
