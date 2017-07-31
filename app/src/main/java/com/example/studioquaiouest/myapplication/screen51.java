@@ -180,7 +180,7 @@ public class screen51 extends AppCompatActivity {
         } else {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle("Plus vite soldat !")
-                    .setMessage("Je connais des petits chinois payés 3centimes par jour qui feraient ça plus rapidement que toi !")
+                    .setMessage("Je connais des petits chinois payés 3 centimes par jour qui feraient ça plus rapidement que toi !")
                     .setPositiveButton("Je retente !", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
