@@ -212,6 +212,10 @@
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/notification_tile_bg.xml"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam6.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam6.png"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_text_cursor_material.xml"
     },
@@ -332,6 +336,10 @@
         "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/background_white.xml"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam3.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam3.png"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_cab_background_internal_bg.xml"
     },
@@ -348,8 +356,16 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/square.png"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam5.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam5.png"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
         "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam2.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam2.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_btn_action_ripple.xml",
@@ -504,11 +520,23 @@
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_btn_radio_material.xml"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam7.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam7.png"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
         "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/giphy.gif",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/giphy.gif"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam1.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam1.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam4.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam4.png"
     }
 ]

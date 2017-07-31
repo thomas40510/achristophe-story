@@ -10,13 +10,14 @@
     tools:context="com.example.studioquaiouest.myapplication.screen47">
 
     <Button
-        android:id="@+id/button30"
+        android:id="@+id/bstart"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/bHelp"
         android:onClick="begin"
-        android:text="Button" />
+        android:text="C'est parti !!" />
 
     <ImageView
         android:id="@+id/imgShow1"
@@ -27,7 +28,9 @@
         android:clickable="true"
         android:onClick="onTextClick"
         android:tag="1"
-        app:srcCompat="@mipmap/icon" />
+        android:visibility="invisible"
+        app:srcCompat="@drawable/spam1" />
+
     <ImageView
         android:id="@+id/imgShow2"
         android:layout_width="wrap_content"
@@ -37,7 +40,9 @@
         android:clickable="true"
         android:onClick="onTextClick"
         android:tag="2"
-        app:srcCompat="@mipmap/icon" />
+        android:visibility="invisible"
+        app:srcCompat="@drawable/spam2" />
+
     <ImageView
         android:id="@+id/imgShow3"
         android:layout_width="wrap_content"
@@ -47,16 +52,90 @@
         android:clickable="true"
         android:onClick="onTextClick"
         android:tag="3"
-        app:srcCompat="@mipmap/icon" />
+        android:visibility="invisible"
+        app:srcCompat="@drawable/spam3" />
+
     <ImageView
         android:id="@+id/imgShow4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:onClick="onTextClick"
         android:clickable="true"
+        android:onClick="onTextClick"
         android:tag="4"
-        app:srcCompat="@mipmap/icon" />
+        android:visibility="invisible"
+        app:srcCompat="@drawable/spam4" />
+
+    <ImageView
+        android:id="@+id/imgShow5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:clickable="true"
+        android:onClick="onTextClick"
+        android:tag="5"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/spam5" />
+
+    <ImageView
+        android:id="@+id/imgShow6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:clickable="true"
+        android:onClick="onTextClick"
+        android:tag="6"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/spam6" />
+
+    <ImageView
+        android:id="@+id/imgShow7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:clickable="true"
+        android:onClick="onTextClick"
+        android:tag="7"
+        android:visibility="invisible"
+        app:srcCompat="@drawable/spam7" />
+
+    <TextView
+        android:id="@+id/showTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="10"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <Button
+        android:id="@+id/bHelp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toStartOf="@+id/showTime"
+        android:onClick="showHelp"
+        android:text="Kécécé kifofèr ?" />
+
+    <TextView
+        android:id="@+id/textView157"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bHelp"
+        android:layout_alignParentEnd="true"
+        android:text="Thomas H"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView158"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView157"
+        android:layout_toStartOf="@+id/textView157"
+        android:text="Proposé par : " />
 
 </RelativeLayout>

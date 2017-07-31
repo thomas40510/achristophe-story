@@ -76,10 +76,6 @@
         "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/anim/design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/anim/scrolldown.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/anim/scrolldown.xml"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     }
