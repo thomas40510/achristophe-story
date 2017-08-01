@@ -98,7 +98,7 @@ public class screen57 extends AppCompatActivity {
         }
 
         if (Arrays.deepEquals(isChecked, allCheck)) {
-            vid.stopPlayback();
+
             vid.setVisibility(View.INVISIBLE);
             reset();
             gotoNext(view);
