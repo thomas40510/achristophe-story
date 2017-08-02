@@ -1,20 +1,14 @@
 package com.example.studioquaiouest.myapplication;
 
-import android.app.Activity;
-import android.content.SharedPreferences;
 import android.graphics.drawable.Drawable;
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.support.v7.widget.ActionBarContextView;
-import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.content.Intent;
 import android.widget.ImageView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import io.smooch.core.Smooch;
@@ -68,7 +62,7 @@ public class screen2 extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:

@@ -1,12 +1,9 @@
 package com.example.studioquaiouest.myapplication;
 
-import android.content.ClipData;
-import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Vibrator;
-import android.provider.MediaStore;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -14,13 +11,9 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import com.google.android.gms.vision.text.Text;
-import com.google.firebase.iid.FirebaseInstanceId;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -55,7 +48,7 @@ public class screen17 extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:
@@ -90,15 +83,17 @@ public class screen17 extends AppCompatActivity {
         else {
             f = f+1;
             if (f == 3) {
-                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                achieveprefs.Achieve[2] = prefs.getString("achieve2", "");
-                if (!achieveprefs.Achieve[2].equals("1")) {
-                    SharedPreferences.Editor editor3 = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                    editor3.putString("achieve2", "1");
-                    editor3.commit();
 
-                    Toast.makeText(this, "Achievement Unlocked", Toast.LENGTH_SHORT).show();
+                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                achieveprefs.isUnlocked[0][2] = prefs.getBoolean("achieveSave02", false);
+
+                if (!achieveprefs.isUnlocked[0][2]){
+                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                    editor.putBoolean("achieveSave02", true);
+                    editor.commit();
+                    Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
                 }
+
                 Wrong.setVisibility(View.VISIBLE);
                 lastButton.setVisibility(View.INVISIBLE);
                 lastWord.setVisibility(View.INVISIBLE);
@@ -112,5 +107,6 @@ public class screen17 extends AppCompatActivity {
                 Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
                 v.vibrate(300);
             }
+        }
     }
-    }}
+}

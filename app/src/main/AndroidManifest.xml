@@ -8,7 +8,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name="com.example.studioquaiouest.myapplication.SmoochInit"
+        android:name=".SmoochInit"
         android:allowBackup="true"
         android:icon="@mipmap/icon"
         android:label="@string/app_name"
@@ -63,7 +63,7 @@
             android:name=".credits"
             android:label="@string/credits_title" />
         <activity
-            android:name=".achievements"
+            android:name=".achieveD1"
             android:label="@string/title_activity_achievements"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name=".easter_rules" />
@@ -96,7 +96,8 @@
         <activity android:name=".screen59" />
         <activity android:name=".screen61" />
         <activity android:name=".screen63" />
-        <activity android:name=".screen65"></activity>
+        <activity android:name=".screen65" />
+        <activity android:name=".achieveChoose"></activity>
     </application>
 
 </manifest>

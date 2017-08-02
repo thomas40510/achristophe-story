@@ -50,7 +50,7 @@ public class screen5 extends AppCompatActivity{
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:
@@ -73,14 +73,17 @@ public class screen5 extends AppCompatActivity{
     }
     else {
         if (nom.equals("1€")){
+
             SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-            achieveprefs.Achieve[6] = prefs.getString("achieve6", "");
-            if (!achieveprefs.Achieve[6].equals("1")){
+            achieveprefs.isUnlocked[0][6] = prefs.getBoolean("achieveSave06", false);
+
+            if (!achieveprefs.isUnlocked[0][6]){
                 SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                editor.putString("achieve6", "1");
+                editor.putBoolean("achieveSave06", true);
                 editor.commit();
                 Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
             }
+
         }
         InputMethodManager inputManager = (InputMethodManager)
                 getSystemService(Context.INPUT_METHOD_SERVICE);

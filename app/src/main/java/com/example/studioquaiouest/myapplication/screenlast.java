@@ -2,7 +2,6 @@ package com.example.studioquaiouest.myapplication;
 
 
 import android.app.AlertDialog;
-import android.content.ClipData;
 import android.content.ClipboardManager;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -14,8 +13,6 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.EditText;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.firebase.iid.FirebaseInstanceId;
@@ -51,7 +48,7 @@ public class screenlast extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:
@@ -92,7 +89,7 @@ public class screenlast extends AppCompatActivity {
                         Toast.makeText(getApplicationContext(), "Progress reset !", Toast.LENGTH_SHORT).show();
                     }
                 })
-                .setNegativeButton("Les achievements !", new DialogInterface.OnClickListener() {
+                .setNegativeButton("Les achieveChoose !", new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int id){
 
                         resetachieve();
@@ -125,7 +122,7 @@ public class screenlast extends AppCompatActivity {
         builder.show();
 
     }
-    public void resetachieve (){                //common method for achievements reset (used by both buttons)
+    public void resetachieve (){                //common method for achieveChoose reset (used by both buttons)
         SharedPreferences.Editor editor2 = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
         editor2.putString("achieve1", "0");
         editor2.putString("achieve2", "0");

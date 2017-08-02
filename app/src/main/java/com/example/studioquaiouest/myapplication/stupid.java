@@ -18,14 +18,15 @@ public class stupid extends AppCompatActivity {
         setContentView(R.layout.activity_stupid);
 
         SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-        achieveprefs.Achieve[12] = prefs.getString("achieve12", "");
-        if (!achieveprefs.Achieve[12].equals("1")){
-            SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-            editor.putString("achieve12", "1");
-            editor.commit();
+        achieveprefs.isUnlocked[1][2] = prefs.getBoolean("achieveSave12", false);
 
+        if (!achieveprefs.isUnlocked[1][2]){
+            SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+            editor.putBoolean("achieveSave12", true);
+            editor.commit();
             Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
         }
+
     }
     public void dispnext (View view){
         Intent intent = new Intent(this, stupid2.class);

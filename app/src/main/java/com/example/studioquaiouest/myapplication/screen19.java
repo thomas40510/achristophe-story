@@ -51,7 +51,7 @@ int i = 0;
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:
@@ -89,15 +89,17 @@ int i = 0;
             if(!BB.isChecked() && !Me.isChecked() && !Pl.isChecked() && !Ld.isChecked() && JC.isChecked() && Tr.isChecked()){
                 i = i+1;
                 if (i == 3) {
-                        SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                        achieveprefs.Achieve[9] = prefs.getString("achieve9", "");
 
-                        if (!achieveprefs.Achieve[9].equals("1")) {
-                            SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                            editor.putString("achieve9", "1");
-                            editor.commit();
-                            Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
-                        }
+                    SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                    achieveprefs.isUnlocked[0][9] = prefs.getBoolean("achieveSave09", false);
+
+                    if (!achieveprefs.isUnlocked[0][9]){
+                        SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                        editor.putBoolean("achieveSave09", true);
+                        editor.commit();
+                        Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
+                    }
+
                     }
             }
             rly.setVisibility(View.VISIBLE);

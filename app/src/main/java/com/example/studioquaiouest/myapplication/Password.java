@@ -14,13 +14,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
-import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import org.w3c.dom.Text;
-
-import java.util.ArrayList;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -54,7 +49,7 @@ public class Password extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:
@@ -123,26 +118,30 @@ public class Password extends AppCompatActivity {
                 findViewById(R.id.imgnope).setVisibility(View.INVISIBLE);
                 findViewById(R.id.imgsatan).setVisibility(View.INVISIBLE);
                 findViewById(R.id.imgbomb).setVisibility(View.VISIBLE);
-                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                achieveprefs.Achieve[7] = prefs.getString("achieve7", "");
-                if (!achieveprefs.Achieve[7].equals("1")) {
-                    SharedPreferences.Editor editor3 = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                    editor3.putString("achieve7", "1");
-                    editor3.commit();
 
-                    Toast.makeText(this, "Achievement Unlocked", Toast.LENGTH_SHORT).show();
+                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                achieveprefs.isUnlocked[0][7] = prefs.getBoolean("achieveSave07", false);
+
+                if (!achieveprefs.isUnlocked[0][7]){
+                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                    editor.putBoolean("achieveSave07", true);
+                    editor.commit();
+                    Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
                 }
+
             }
             if (code.equals("2201")) {
-                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                achieveprefs.Achieve[5] = prefs.getString("achieve5", "");
-                if (!achieveprefs.Achieve[5].equals("1")) {
-                    SharedPreferences.Editor editor3 = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                    editor3.putString("achieve5", "1");
-                    editor3.commit();
 
-                    Toast.makeText(this, "Achievement Unlocked", Toast.LENGTH_SHORT).show();
+                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                achieveprefs.isUnlocked[0][5] = prefs.getBoolean("achieveSave05", false);
+
+                if (!achieveprefs.isUnlocked[0][5]){
+                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                    editor.putBoolean("achieveSave05", true);
+                    editor.commit();
+                    Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
                 }
+
             }
             if (code.equals("666")) {
                 findViewById(R.id.imgnope).setVisibility(View.INVISIBLE);
@@ -151,15 +150,17 @@ public class Password extends AppCompatActivity {
                 TextView satantxt = (TextView) findViewById(R.id.pasbon);
                 satantxt.setText("SATAN EST NOTRE DIEU A TOUS !!");
                 satantxt.setVisibility(View.VISIBLE);
-                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                achieveprefs.Achieve[8] = prefs.getString("achieve8", "");
-                if (!achieveprefs.Achieve[8].equals("1")) {
-                    SharedPreferences.Editor editor4 = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                    editor4.putString("achieve8", "1");
-                    editor4.commit();
 
-                    Toast.makeText(this, "Achievement Unlocked !", Toast.LENGTH_SHORT).show();
+                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                achieveprefs.isUnlocked[0][8] = prefs.getBoolean("achieveSave08", false);
+
+                if (!achieveprefs.isUnlocked[0][8]){
+                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                    editor.putBoolean("achieveSave08", true);
+                    editor.commit();
+                    Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
                 }
+
             }
             InputMethodManager inputManager = (InputMethodManager)
                     getSystemService(Context.INPUT_METHOD_SERVICE);

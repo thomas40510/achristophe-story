@@ -92,7 +92,7 @@
             android:name="com.example.studioquaiouest.myapplication.credits"
             android:label="@string/credits_title" />
         <activity
-            android:name="com.example.studioquaiouest.myapplication.achievements"
+            android:name="com.example.studioquaiouest.myapplication.achieveD1"
             android:label="@string/title_activity_achievements"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.studioquaiouest.myapplication.easter_rules" />
@@ -126,6 +126,7 @@
         <activity android:name="com.example.studioquaiouest.myapplication.screen61" />
         <activity android:name="com.example.studioquaiouest.myapplication.screen63" />
         <activity android:name="com.example.studioquaiouest.myapplication.screen65" />
+        <activity android:name="com.example.studioquaiouest.myapplication.achieveChoose" />
         <activity
             android:name="com.google.android.gms.appinvite.PreviewActivity"
             android:exported="true"

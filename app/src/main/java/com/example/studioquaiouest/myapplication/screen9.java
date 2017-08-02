@@ -3,9 +3,7 @@ package com.example.studioquaiouest.myapplication;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
-import android.os.Build;
 import android.os.Vibrator;
-import android.support.annotation.RequiresApi;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -56,7 +54,7 @@ public class screen9 extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:
@@ -84,12 +82,13 @@ public class screen9 extends AppCompatActivity {
             i = i+1;
             if (i == 3) {
                 if (hour == currenth && minute == currentm) {
-                    SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                    achieveprefs.Achieve[1] = prefs.getString("achieve1", "");
 
-                    if (!achieveprefs.Achieve[1].equals("1")) {
+                    SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                    achieveprefs.isUnlocked[0][1] = prefs.getBoolean("achieveSave01", false);
+
+                    if (!achieveprefs.isUnlocked[0][1]){
                         SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                        editor.putString("achieve1", "1");
+                        editor.putBoolean("achieveSave01", true);
                         editor.commit();
                         Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
                     }

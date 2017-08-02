@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         String version = BuildConfig.VERSION_NAME;
         versionname.setText(version);
 
+        restoreEaster();
 
         mWelcomeTextView = (TextView) findViewById(R.id.welcomeMsg);
         mUpdateTextView = (TextView) findViewById(R.id.update);
@@ -108,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:
@@ -216,15 +217,17 @@ public class MainActivity extends AppCompatActivity {
             square.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                    achieveprefs.Achieve[11] = prefs.getString("achieve11", "");
-                    if (!achieveprefs.Achieve[11].equals("1")){
-                        SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-                        editor.putString("achieve11", "1");
-                        editor.commit();
 
-                        Toast.makeText(getApplicationContext(), "Achievement unlocked", Toast.LENGTH_SHORT).show();
+                    SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                    achieveprefs.isUnlocked[1][1] = prefs.getBoolean("achieveSave11", false);
+
+                    if (!achieveprefs.isUnlocked[1][1]){
+                        SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                        editor.putBoolean("achieveSave11", true);
+                        editor.commit();
+                        Toast.makeText(getApplicationContext(), "Achievement unlocked !", Toast.LENGTH_SHORT).show();
                     }
+
                     square.setVisibility(View.INVISIBLE);
                 }
             });
@@ -232,8 +235,26 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void gotoLB (View view){
+
         Intent intent = new Intent(this, screen63.class);
         startActivity(intent);
+    }
+
+    public void restoreEaster(){
+        String saveFile = "AchievePrefsFile";
+        SharedPreferences prefs = getSharedPreferences(saveFile, MODE_PRIVATE);
+        achieveprefs.Achieve[10] = prefs.getString("achieve10", "0");
+
+        SharedPreferences prefsnew = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+        achieveprefs.isUnlocked[1][0] = prefsnew.getBoolean("achieveSave10", false);
+
+        if (!achieveprefs.isUnlocked[1][0] && achieveprefs.Achieve[10].equals("1")){
+
+            SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+            editor.putBoolean("achieveSave10", true);
+            editor.commit();
+            Toast.makeText(this, "Easter restored !", Toast.LENGTH_SHORT).show();
+        }
     }
 
     public void gotoLast (View view){

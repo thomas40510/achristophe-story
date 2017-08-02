@@ -3,7 +3,6 @@ package com.example.studioquaiouest.myapplication;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Handler;
-import android.provider.Settings;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -12,14 +11,9 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
-import android.widget.Chronometer;
-import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
-
-import static java.lang.Math.toIntExact;
 
 public class screen45 extends AppCompatActivity {
 
@@ -56,7 +50,7 @@ public class screen45 extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:

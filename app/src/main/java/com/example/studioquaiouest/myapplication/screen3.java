@@ -1,7 +1,6 @@
 package com.example.studioquaiouest.myapplication;
 
 import android.content.Context;
-import android.content.SharedPreferences;
 import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -13,7 +12,6 @@ import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
 import android.content.Intent;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -51,7 +49,7 @@ public class screen3 extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:

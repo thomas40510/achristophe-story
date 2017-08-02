@@ -13,8 +13,6 @@ import android.view.View;
 import android.widget.CheckBox;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
 import io.smooch.ui.ConversationActivity;
 
 public class screen11 extends AppCompatActivity {
@@ -50,7 +48,7 @@ public class screen11 extends AppCompatActivity {
                 startActivity(credits);
                 return true;
             case R.id.open_achievements:
-                Intent achieve = new Intent(this, achievements.class);
+                Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
             case R.id.open_Smooch:

@@ -24,11 +24,11 @@ public class intro extends AppCompatActivity {
         setSupportActionBar(toolbar);
 
         SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-        achieveprefs.Achieve[4] = prefs.getString("achieve4", "");
+        achieveprefs.isUnlocked[0][4] = prefs.getBoolean("achieveSave04", false);
 
-        if (!achieveprefs.Achieve[4].equals("1")){
+        if (!achieveprefs.isUnlocked[0][4]){
             SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
-            editor.putString("achieve4", "1");
+            editor.putBoolean("achieveSave04", true);
             editor.commit();
             Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
         }

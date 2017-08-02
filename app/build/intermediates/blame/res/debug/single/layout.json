@@ -108,6 +108,10 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_screen49.xml"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/content_achieve_d1.xml",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/content_achieve_d1.xml"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
@@ -150,10 +154,6 @@
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_screen41.xml",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_screen41.xml"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_achievements.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_achievements.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_leaderboard.xml",
@@ -312,10 +312,6 @@
         "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/content_achievements.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/content_achievements.xml"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout/abc_alert_dialog_title_material.xml"
     },
@@ -412,12 +408,20 @@
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_achieve_d1.xml",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_achieve_d1.xml"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
         "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/layout/cast_expanded_controller_activity.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_achieve_choose.xml",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_achieve_choose.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_screen39.xml",
