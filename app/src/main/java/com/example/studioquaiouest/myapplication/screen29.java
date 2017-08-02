@@ -2,6 +2,7 @@ package com.example.studioquaiouest.myapplication;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -11,6 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -66,7 +68,24 @@ public class screen29 extends AppCompatActivity {
             findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
             hideEmpty(phoneNbr);
             gotoNext(view);
-        } else{
+        }
+
+        if (number.equals("0768270098")){
+
+            SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+            achieveprefs.isUnlocked[1][6] = prefs.getBoolean("achieveSave16", false);
+
+            if (!achieveprefs.isUnlocked[1][6]){
+                SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                editor.putBoolean("achieveSave16", true);
+                editor.commit();
+                Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
+            }
+
+            hideEmpty(phoneNbr);
+        }
+
+        else{
             findViewById(R.id.imgWrong).setVisibility(View.VISIBLE);
             hideEmpty(phoneNbr);
             Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);

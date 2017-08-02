@@ -1228,7 +1228,7 @@
     <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
     <string name="cast_unmute">Unmute</string>
     <string name="character_counter_pattern" translatable="false">%1$d / %2$d</string>
-    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">58c633c1-1fff-49a1-b74d-ba6d9ce4946b</string>
+    <string name="com.crashlytics.android.build_id" ns2:ignore="UnusedResources,TypographyDashes" translatable="false">4d1de4f3-ebeb-49ac-9376-166da184f98e</string>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
     <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
@@ -1295,11 +1295,6 @@
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
     <string name="place_autocomplete_clear_button">Clear search</string>
     <string name="place_autocomplete_search_hint">Search</string>
-    <string name="resume1">
-        "C’est alors que Christophe se mit à la recherche de l’hypothétique “remplaçant”. Recherche d'autant plus compliquée par le nombre de personnes constituant le groupe…#LOL\n\n"
-        "S'emballe alors l'imagination perverse de l'intéressé, pensant que la vision de la chèvre pour lui n'aurait d'égale que la précédente dénomination de ce dernier.\n\n"
-        "Il va cependant, dans un accès de raison relative, se reconcentrer sur son objectif premier...\n\n"
-    </string>
     <string name="search_menu_title">Search</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1308,7 +1303,10 @@
     <string name="tagmanager_preview_dialog_button">Continue</string>
     <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
     <string name="tagmanager_preview_dialog_title">Preview</string>
-    <string name="title_activity_achievements">Achievements</string>
+    <string name="title_activity_achieve_d3">Achievements - Jour 3</string>
+    <string name="title_activity_achieve_d4">Achievements - Jour 4</string>
+    <string name="title_activity_achieve_d5">Achievements - Jour 5</string>
+    <string name="title_activity_achievements">Achievements - Jour 1</string>
     <string name="title_activity_allimages">allimages</string>
     <string name="title_activity_intro">Petite Introduction...</string>
     <string name="title_activity_stupid2">SURPRISE MOTHER FUCKER !!</string>

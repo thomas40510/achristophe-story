@@ -102,6 +102,7 @@
         android:layout_above="@+id/button1"
         android:layout_below="@+id/textView111"
         android:layout_centerHorizontal="true"
+        android:onClick="allHailBenaz"
         android:visibility="invisible"
         app:srcCompat="@drawable/benaz" />
 

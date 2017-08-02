@@ -62,12 +62,13 @@
         "  PS : il est indispensable d'être connecté à internet pour faire apparaître les oeufs en temps voulu."
     </string>
     <string name="credits_title">\"Le Spectacle\" - Crédits</string>
-    <string name="title_activity_achievements">Achievements</string>
 
-    <string name="resume1">
-        "C’est alors que Christophe se mit à la recherche de l’hypothétique “remplaçant”. Recherche d'autant plus compliquée par le nombre de personnes constituant le groupe…#LOL\n\n"
-        "S'emballe alors l'imagination perverse de l'intéressé, pensant que la vision de la chèvre pour lui n'aurait d'égale que la précédente dénomination de ce dernier.\n\n"
-        "Il va cependant, dans un accès de raison relative, se reconcentrer sur son objectif premier...\n\n"
-    </string>
+
+    <string name="title_activity_achievements">Achievements - Jour 1</string>
+    <string name="title_activity_achieve_d3">Achievements - Jour 3</string>
+    <string name="title_activity_achieve_d4">Achievements - Jour 4</string>
+    <string name="title_activity_achieve_d5">Achievements - Jour 5</string>
+
+
 
 </resources>

@@ -2,6 +2,7 @@ package com.example.studioquaiouest.myapplication;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -12,6 +13,7 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.widget.Button;
+import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -134,6 +136,24 @@ public class screen23 extends AppCompatActivity {
         } else {
             Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
             v.vibrate(300);
+        }
+    }
+
+    int i = 0;
+
+    public void allHailBenaz (View view){
+        if (i==2){
+            SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+            achieveprefs.isUnlocked[1][4] = prefs.getBoolean("achieveSave14", false);
+
+            if (!achieveprefs.isUnlocked[1][4]){
+                SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                editor.putBoolean("achieveSave14", true);
+                editor.commit();
+                Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
+            }
+        } else {
+            i++;
         }
     }
 

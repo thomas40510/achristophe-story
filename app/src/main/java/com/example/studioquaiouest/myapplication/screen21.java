@@ -2,6 +2,7 @@ package com.example.studioquaiouest.myapplication;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,7 +10,9 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -62,12 +65,35 @@ public class screen21 extends AppCompatActivity {
             findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
             gotoNext(view);
         }
+
+        if (moyenne==22f){
+            SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+            achieveprefs.isUnlocked[1][3] = prefs.getBoolean("achieveSave13", false);
+
+            if (!achieveprefs.isUnlocked[1][3]){
+                SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                editor.putBoolean("achieveSave13", true);
+                editor.commit();
+                Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
+            }
+        }
+
         else {
             Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
             v.vibrate(300);
             findViewById(R.id.imgWrong).setVisibility(View.VISIBLE);
         }
+        hideEmpty();
     }
+
+    public void hideEmpty (){
+        ((EditText)findViewById(R.id.editText)).setText("");
+        InputMethodManager inputManager = (InputMethodManager)
+                getSystemService(Context.INPUT_METHOD_SERVICE);
+        inputManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),
+                InputMethodManager.HIDE_NOT_ALWAYS);
+    }
+
     public void gotoNext (View view){
         Intent intent = new Intent(this, resume.class);
         int r = 1;

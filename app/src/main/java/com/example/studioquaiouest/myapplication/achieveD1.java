@@ -79,17 +79,9 @@ public class achieveD1 extends AppCompatActivity {
                 String achieveID = "achieve"+i+j;
                 int resID = getResources().getIdentifier(achieveID, "id", getPackageName());
 
-                Log.e("info", "i = "+i+" j = "+j);
 
-                if (i == 1 && j >= 3){
-                    Log.e("TODO", "add missing achievements");
-                    break;
-                } else {
-
-                        if (achieveprefs.isUnlocked[i][j]) {
-                            findViewById(resID).setAlpha(1);
-                        }
-
+                if (achieveprefs.isUnlocked[i][j]) {
+                    findViewById(resID).setAlpha(1);
                 }
 
             }

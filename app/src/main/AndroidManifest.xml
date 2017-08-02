@@ -97,7 +97,19 @@
         <activity android:name=".screen61" />
         <activity android:name=".screen63" />
         <activity android:name=".screen65" />
-        <activity android:name=".achieveChoose"></activity>
+        <activity android:name=".achieveChoose" />
+        <activity
+            android:name=".achieveD3"
+            android:label="@string/title_activity_achieve_d3"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".achieveD4"
+            android:label="@string/title_activity_achieve_d4"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".achieveD5"
+            android:label="@string/title_activity_achieve_d5"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>

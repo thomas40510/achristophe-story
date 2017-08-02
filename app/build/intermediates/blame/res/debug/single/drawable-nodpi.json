@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/satellite.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/satellite.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi75.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi75.png"
     },
@@ -12,12 +8,12 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot51.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot43.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot43.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/nietzsche.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/nietzsche.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/spam.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/spam.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/lechat_nope.png",
@@ -32,12 +28,8 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/retrotv.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/icon_hd.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/icon_hd.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/gamepad.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/gamepad.png"
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/music.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/music.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/boombox.png",
@@ -48,6 +40,10 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi74.png"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/quaiouest.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/quaiouest.png"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/gps.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/gps.png"
     },
@@ -56,32 +52,16 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot005.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/centimeter.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/centimeter.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi66.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi66.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot57.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot57.png"
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/titanic.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/titanic.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/tent.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/tent.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/pencil.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/pencil.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/circus.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/circus.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/tv.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/tv.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot36.png",
@@ -92,10 +72,6 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot006.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot009.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot009.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/answer3.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/answer3.png"
     },
@@ -104,52 +80,12 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot47.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/benaz.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/benaz.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot11.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot11.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/wallet.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/wallet.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot58.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot58.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot003.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot003.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/vespa.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/vespa.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/answer1.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/answer1.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/cv.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/cv.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot52.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot52.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/clock.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/clock.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/satan.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/satan.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi67.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi67.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot06.png",
@@ -160,22 +96,6 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/meteor.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot14.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot14.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot60.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot60.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi64.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi64.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot44.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot44.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot01.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot01.png"
     },
@@ -184,28 +104,16 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/answer2.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot15.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot15.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot07.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot07.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi72.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi72.png"
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/genius.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/genius.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/egg.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/egg.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/walloonregion.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/walloonregion.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/mlpno.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/mlpno.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot29.png",
@@ -224,14 +132,6 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/easter.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/dialog_icon.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/dialog_icon.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot008.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot008.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/terrorist.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/terrorist.png"
     },
@@ -240,24 +140,12 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi63.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi71.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi71.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi69.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi69.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/coins.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/coins.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot62.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot62.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot002.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot002.png"
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/iconbenaz.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/iconbenaz.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/safe.png",
@@ -266,6 +154,198 @@
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot61.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot61.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/question.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/question.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi73.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi73.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi70.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi70.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot16.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot16.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot10.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot10.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot48.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot48.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot001.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot001.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot004.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot004.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/submarine.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/submarine.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot007.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot007.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/satellite.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/satellite.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot43.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot43.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/end.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/end.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/gamepad.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/gamepad.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/icon_hd.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/icon_hd.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/centimeter.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/centimeter.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi66.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi66.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot57.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot57.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/pencil.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/pencil.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/phone.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/phone.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/tv.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/tv.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot009.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot009.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/benaz.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/benaz.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/universe.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/universe.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot11.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot11.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/wallet.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/wallet.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot58.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot58.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/vespa.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/vespa.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/answer1.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/answer1.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/cv.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/cv.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/clock.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/clock.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/satan.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/satan.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi67.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi67.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot14.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot14.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot60.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot60.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi64.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi64.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot44.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot44.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi72.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi72.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot15.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot15.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/walloonregion.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/walloonregion.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/mlpno.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/mlpno.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/parisienne.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/parisienne.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/dialog_icon.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/dialog_icon.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot008.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot008.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi71.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi71.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot62.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot62.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/coins.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/coins.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot002.png",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot002.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi65.png",
@@ -288,24 +368,8 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/beer.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/question.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/question.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi73.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi73.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/epi70.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/epi70.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/loizeau.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/loizeau.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot16.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot16.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/ufo.png",
@@ -316,35 +380,11 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot53.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot10.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot10.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot48.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot48.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/integ.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/integ.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot001.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot001.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot004.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot004.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot59.png",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot59.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/submarine.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/submarine.png"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-nodpi/screenshot007.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-nodpi/screenshot007.png"
     }
 ]
