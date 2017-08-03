@@ -109,7 +109,7 @@
         <activity
             android:name=".achieveD5"
             android:label="@string/title_activity_achieve_d5"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar"/>
     </application>
 
 </manifest>

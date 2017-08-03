@@ -364,16 +364,16 @@
         "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/layout/mr_chooser_list_item.xml"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/content_achieve_d4.xml",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/content_achieve_d4.xml"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_screen43.xml",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_screen43.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
         "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/content_achieve_d4.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/content_achieve_d4.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_day5.xml",
@@ -404,20 +404,20 @@
         "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_easter_rules.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_easter_rules.xml"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_screenlast.xml",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_screenlast.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout/notification_template_lines_media.xml"
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_easter_rules.xml",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_easter_rules.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_screen55.xml",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_screen55.xml"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout/notification_template_lines_media.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/smooch_list_message_item.xml",
@@ -506,6 +506,10 @@
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/activity_screenshots.xml",
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_screenshots.xml"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/snake_layout.xml",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/snake_layout.xml"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",

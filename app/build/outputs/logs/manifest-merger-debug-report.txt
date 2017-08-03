@@ -397,7 +397,7 @@ ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xm
 	android:name
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:106:13-38
 activity#com.example.studioquaiouest.myapplication.achieveD5
-ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:109:9-112:68
+ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:109:9-112:58
 	android:label
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:111:13-62
 	android:theme

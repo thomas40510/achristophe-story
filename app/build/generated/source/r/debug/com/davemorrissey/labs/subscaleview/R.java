@@ -8,15 +8,15 @@ package com.davemorrissey.labs.subscaleview;
 
 public final class R {
     public static final class attr {
-        public static final int assetName = 0x7f0101b4;
-        public static final int panEnabled = 0x7f0101b5;
-        public static final int quickScaleEnabled = 0x7f0101b7;
-        public static final int src = 0x7f0101b3;
-        public static final int tileBackgroundColor = 0x7f0101b8;
-        public static final int zoomEnabled = 0x7f0101b6;
+        public static final int assetName = 0x7f0101b8;
+        public static final int panEnabled = 0x7f0101b9;
+        public static final int quickScaleEnabled = 0x7f0101bb;
+        public static final int src = 0x7f0101b7;
+        public static final int tileBackgroundColor = 0x7f0101bc;
+        public static final int zoomEnabled = 0x7f0101ba;
     }
     public static final class styleable {
-        public static final int[] SubsamplingScaleImageView = { 0x7f0101b3, 0x7f0101b4, 0x7f0101b5, 0x7f0101b6, 0x7f0101b7, 0x7f0101b8 };
+        public static final int[] SubsamplingScaleImageView = { 0x7f0101b7, 0x7f0101b8, 0x7f0101b9, 0x7f0101ba, 0x7f0101bb, 0x7f0101bc };
         public static final int SubsamplingScaleImageView_assetName = 1;
         public static final int SubsamplingScaleImageView_panEnabled = 2;
         public static final int SubsamplingScaleImageView_quickScaleEnabled = 4;
