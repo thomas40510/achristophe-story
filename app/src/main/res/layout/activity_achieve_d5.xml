@@ -29,7 +29,17 @@
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/AppTheme.PopupOverlay" />
 
+            <ImageButton
+                android:id="@+id/imageButton5"
+                android:layout_width="45dp"
+                android:layout_height="40dp"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:onClick="close"
+                app:srcCompat="?attr/homeAsUpIndicator" />
+
         </android.support.design.widget.CollapsingToolbarLayout>
+
     </android.support.design.widget.AppBarLayout>
 
     <include layout="@layout/content_achieve_d5" />

@@ -128,12 +128,12 @@
         "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_media_route_on_09_dark.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_connecting_08_dark.png",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_media_route_connecting_08_dark.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
         "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_connecting_08_dark.png",
+        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_media_route_connecting_08_dark.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_on_07_light.png",
@@ -152,12 +152,12 @@
         "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_media_route_on_21_light.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_cast_dark.png",
@@ -212,12 +212,12 @@
         "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_cast_light.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_connecting_09_light.png",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_media_route_connecting_09_light.png"
-    },
-    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_connecting_19_light.png",
         "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_media_route_connecting_19_light.png"
+    },
+    {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_connecting_09_light.png",
+        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable-xxhdpi-v4/ic_media_route_connecting_09_light.png"
     },
     {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_media_route_connecting_22_dark.png",

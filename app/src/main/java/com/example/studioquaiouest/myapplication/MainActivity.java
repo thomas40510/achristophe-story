@@ -21,6 +21,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.crashlytics.android.answers.Answers;
+import com.crashlytics.android.answers.ContentViewEvent;
+import com.crashlytics.android.answers.CustomEvent;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig;
@@ -236,7 +239,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void gotoLB (View view){
 
-        Intent intent = new Intent(this, screen57.class);
+        Intent intent = new Intent(this, day6.class);
         startActivity(intent);
     }
 
@@ -300,6 +303,8 @@ public class MainActivity extends AppCompatActivity {
         builder.show();
 
     }
+
+
 }
 
 

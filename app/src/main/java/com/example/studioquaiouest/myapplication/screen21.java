@@ -61,11 +61,6 @@ public class screen21 extends AppCompatActivity {
         EditText text = (EditText)findViewById(R.id.editText);
         float moyenne = Float.parseFloat(text.getText().toString());
 
-        if (moyenne == 8.18f){
-            findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
-            gotoNext(view);
-        }
-
         if (moyenne==22f){
             SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
             achieveprefs.isUnlocked[1][3] = prefs.getBoolean("achieveSave13", false);
@@ -78,7 +73,10 @@ public class screen21 extends AppCompatActivity {
             }
         }
 
-        else {
+        if (moyenne == 8.18f){
+            findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
+            gotoNext(view);
+        } else {
             Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
             v.vibrate(300);
             findViewById(R.id.imgWrong).setVisibility(View.VISIBLE);

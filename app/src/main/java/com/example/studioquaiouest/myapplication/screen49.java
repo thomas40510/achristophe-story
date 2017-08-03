@@ -2,6 +2,7 @@ package com.example.studioquaiouest.myapplication;
 
 import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
@@ -11,6 +12,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
+import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -73,7 +75,23 @@ public class screen49 extends AppCompatActivity {
         }
     }
 
+    int w = 0;
+
     public void Wrong(){
+        if (w == 2){
+
+            SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+            achieveprefs.isUnlocked[1][9] = prefs.getBoolean("achieveSave19", false);
+
+            if (!achieveprefs.isUnlocked[1][9]){
+                SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                editor.putBoolean("achieveSave19", true);
+                editor.commit();
+                Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
+            }
+        } else {
+            w++;
+        }
         findViewById(R.id.txtWrong).setVisibility(View.VISIBLE);
         RadioButton radio = (RadioButton) findViewById(radioId);
         radio.setChecked(false);

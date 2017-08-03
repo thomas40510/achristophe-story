@@ -64,11 +64,6 @@ public class screen29 extends AppCompatActivity {
         EditText phoneNbr = (EditText)findViewById(R.id.txtNumber);
         number = phoneNbr.getText().toString();
 
-        if (number.equals("0621041300")){
-            findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
-            hideEmpty(phoneNbr);
-            gotoNext(view);
-        }
 
         if (number.equals("0768270098")){
 
@@ -85,7 +80,13 @@ public class screen29 extends AppCompatActivity {
             hideEmpty(phoneNbr);
         }
 
-        else{
+        if (number.equals("0621041300")){
+            findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
+            hideEmpty(phoneNbr);
+            gotoNext(view);
+        }
+
+        else {
             findViewById(R.id.imgWrong).setVisibility(View.VISIBLE);
             hideEmpty(phoneNbr);
             Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);

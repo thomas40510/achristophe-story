@@ -2,6 +2,7 @@ package com.example.studioquaiouest.myapplication;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Handler;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -12,6 +13,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -121,9 +123,21 @@ public class screen45 extends AppCompatActivity {
 
 
     public void Verif(View view){
-        if (spamCount >= 30){
-            gotoNext(view);
 
+        if (spamCount >= 30){
+            if (spamCount >= 36){
+
+                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                achieveprefs.isUnlocked[1][8] = prefs.getBoolean("achieveSave18", false);
+
+                if (!achieveprefs.isUnlocked[1][8]){
+                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                    editor.putBoolean("achieveSave18", true);
+                    editor.commit();
+                    Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
+                }
+            }
+            gotoNext(view);
         }
         else {
             AlertDialog.Builder builder = new AlertDialog.Builder(this);

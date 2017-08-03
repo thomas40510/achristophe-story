@@ -59,11 +59,6 @@ public class screen27 extends AppCompatActivity {
     public void Verif (View view){
         EditText resultTxt = (EditText) findViewById(R.id.txtResult);
         float result = Float.parseFloat(resultTxt.getText().toString());
-        if (result == 22){
-            Reset(resultTxt);
-            findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
-            gotoNext(view);
-        }
 
         if (result == 42){
             SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
@@ -78,7 +73,11 @@ public class screen27 extends AppCompatActivity {
             Reset(resultTxt);
         }
 
-        else {
+        if (result == 22){
+            Reset(resultTxt);
+            findViewById(R.id.imgWrong).setVisibility(View.INVISIBLE);
+            gotoNext(view);
+        } else {
             Reset(resultTxt);
             findViewById(R.id.imgWrong).setVisibility(View.VISIBLE);
             Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);

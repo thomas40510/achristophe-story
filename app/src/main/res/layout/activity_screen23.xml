@@ -71,7 +71,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView110"
-        android:text="Je suis tellement con que je suis tombé dans le stratagme d'un habile infiltré, devenant la base d'une application se foutant de moi..." />
+        android:text="Je suis tellement con que je suis tombé dans le stratagème d'un habile infiltré, devenant la base d'une application se foutant de moi..." />
 
     <TextView
         android:id="@+id/textView113"

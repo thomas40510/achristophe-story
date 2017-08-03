@@ -13,12 +13,12 @@
         android:id="@+id/button16"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentStart="true"
         android:onClick="Verif"
         android:text="On vérifie !"
-        android:visibility="visible" />
+        android:visibility="visible"
+        android:layout_below="@+id/textView106"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true" />
 
     <TextView
         android:id="@+id/textView103"
@@ -80,10 +80,10 @@
         android:id="@+id/imgWrong"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_above="@+id/textView108"
-        android:layout_below="@+id/textView107"
-        android:layout_centerHorizontal="true"
         android:visibility="invisible"
-        app:srcCompat="@drawable/rly" />
+        app:srcCompat="@drawable/rly"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/button16" />
 
 </RelativeLayout>

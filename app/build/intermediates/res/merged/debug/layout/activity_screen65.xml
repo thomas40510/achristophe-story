@@ -4,16 +4,99 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="5dp"
     tools:context="com.example.studioquaiouest.myapplication.screen65">
 
     <Button
         android:id="@+id/button32"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="gotoNext"
-        android:text="Button"
-        android:layout_alignParentTop="true"
+        android:onClick="Verif"
+        android:text="Je suis un expert !"
         android:layout_alignParentStart="true"
-        android:layout_alignParentEnd="true" />
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true" />
+
+    <TextView
+        android:id="@+id/textView175"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Nous arrivons au dénouement de cette grande aventure." />
+
+    <TextView
+        android:id="@+id/textView181"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView175"
+        android:text="Seulement, seul un expert peut être assez fort pour arriver au bout de cette folle histoire..." />
+
+    <TextView
+        android:id="@+id/textView194"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView181"
+        android:text="Cela pourrait être, par exemple, quelqu'un qui aurait au moins 19 achievements..." />
+
+    <TextView
+        android:id="@+id/textView195"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/countTxt"
+        android:layout_toStartOf="@+id/countTxt"
+        android:text="Vous en avez : " />
+
+    <TextView
+        android:id="@+id/textView196"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text=" / "
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/textView197"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/textView196"
+        android:text="19"
+        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/countTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="--"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        android:layout_alignBaseline="@+id/textView196"
+        android:layout_alignBottom="@+id/textView196"
+        android:layout_toStartOf="@+id/textView196" />
+
+    <TextView
+        android:id="@+id/textView200"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView196"
+        android:layout_centerHorizontal="true"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/txtWrong"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView200"
+        android:layout_centerHorizontal="true"
+        android:text="Ça va pas me suffire..."
+        android:textColor="@color/text_failure_color"
+        android:textSize="18sp"
+        android:visibility="invisible" />
 
 </RelativeLayout>

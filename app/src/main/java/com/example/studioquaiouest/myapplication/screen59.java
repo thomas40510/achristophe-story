@@ -1,6 +1,7 @@
 package com.example.studioquaiouest.myapplication;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.media.MediaPlayer;
 import android.net.Uri;
 import android.support.v7.app.AppCompatActivity;
@@ -9,6 +10,7 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.widget.Toast;
 import android.widget.VideoView;
 
 import io.smooch.ui.ConversationActivity;
@@ -69,6 +71,7 @@ public class screen59 extends AppCompatActivity {
         }
     }
 
+    int w = 0;
     public void Verif (View view){
         String isTrue = view.getTag().toString();
 
@@ -76,6 +79,22 @@ public class screen59 extends AppCompatActivity {
             vid.stopPlayback();
             gotoNext(view);
         } else {
+
+            if (w==2){
+
+                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
+                achieveprefs.isUnlocked[2][1] = prefs.getBoolean("achieveSave21", false);
+
+                if (!achieveprefs.isUnlocked[2][1]){
+                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                    editor.putBoolean("achieveSave21", true);
+                    editor.commit();
+                    Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
+                }
+            } else {
+                w++;
+            }
+
             Uri wrong = Uri.parse("android.resource://"+getPackageName()+"/"+R.raw.rlynigga);
             vid.setVideoURI(wrong);
             vid.start();

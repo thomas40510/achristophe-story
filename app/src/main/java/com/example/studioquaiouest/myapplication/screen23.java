@@ -139,10 +139,10 @@ public class screen23 extends AppCompatActivity {
         }
     }
 
-    int i = 0;
+    int w = 0;
 
     public void allHailBenaz (View view){
-        if (i==2){
+        if (w==2){
             SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
             achieveprefs.isUnlocked[1][4] = prefs.getBoolean("achieveSave14", false);
 
@@ -153,7 +153,7 @@ public class screen23 extends AppCompatActivity {
                 Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
             }
         } else {
-            i++;
+            w++;
         }
     }
 
