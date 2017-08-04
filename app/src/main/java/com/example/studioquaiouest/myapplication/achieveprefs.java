@@ -7,6 +7,8 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.view.View;
 
+import java.util.Arrays;
+
 
 /**
  * Created by Administrateur on 12/02/2017.
@@ -14,8 +16,7 @@ import android.view.View;
 
 public class achieveprefs extends Activity {
 
-    //public static final String ACH_PREFS = "AchieveSavesFile";
-    public static final String ACH_PREFS = "TestSavesFile"; // for Dev_0408
+    public static final String ACH_PREFS = "AchieveSavesFile";
     public static String[] Achieve = {"0", "0", "0", "0", "0","0", "0", "0", "0", "0", "0", "0", "0"};
 
     public static boolean[][] isUnlocked = new boolean[3][10];
@@ -30,5 +31,17 @@ public class achieveprefs extends Activity {
                 isUnlocked[r][(c)] = prefs.getBoolean(achieve +r +c, false);
             }
         }
+    }
+
+    public void writeUnlock(Context context){
+        String write = "achieveSave";
+        SharedPreferences.Editor editor = context.getSharedPreferences(ACH_PREFS, MODE_PRIVATE).edit();
+
+        for (int w = 0 ; w < 3 ; w++){
+            for (int x = 0 ; x < 10 ; x++){
+                editor.putBoolean(write+w+x, isUnlocked[w][x]);
+            }
+        }
+        editor.commit();
     }
 }

@@ -244,6 +244,10 @@
         "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/activity_screen53.xml"
     },
     {
+        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/switch_item.xml",
+        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/layout/switch_item.xml"
+    },
+    {
         "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout/smooch_activity_image.xml",
         "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/layout/smooch_activity_image.xml"
     },

@@ -122,7 +122,7 @@ public class screenlast extends AppCompatActivity {
         builder.show();
 
     }
-    public void resetachieve (){                //common method for achieveChoose reset (used by both buttons)
+    public void resetachieve (){                //common method for achievements reset (used by both buttons)
         SharedPreferences.Editor editor2 = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
         editor2.putString("achieve1", "0");
         editor2.putString("achieve2", "0");

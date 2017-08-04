@@ -136,8 +136,7 @@ public class day6 extends AppCompatActivity {
         String formattedDate = df.format(c.getTime());
 
 
-        //Answers.getInstance().logCustom(new CustomEvent("End")
-        Answers.getInstance().logCustom(new CustomEvent("End test") //for Dev_0408
+        Answers.getInstance().logCustom(new CustomEvent("End")
                 .putCustomAttribute("User / Date", userName+" / "+formattedDate));
     }
 

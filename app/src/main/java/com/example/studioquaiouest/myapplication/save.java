@@ -19,8 +19,7 @@ import java.io.FileOutputStream;
 
 public class save {
 
-    //public static final String MY_PREFS = "ProgressSaveFile";
-    public static final String MY_PREFS = "TestSaveFile"; // for Dev_0408
+    public static final String MY_PREFS = "ProgressSaveFile";
     public static String saveCode = null;
 
 

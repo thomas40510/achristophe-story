@@ -118,20 +118,12 @@
         android:layout_alignParentEnd="true" />
 
     <TextView
-        android:text='©2017 "Les meilleurs"'
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentEnd="true"
-        android:id="@+id/textView47" />
-
-    <TextView
-        android:text="Histoire inspirée de faits réels."
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
         android:id="@+id/textView46"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true" />
+        android:layout_alignParentStart="true"
+        android:text="Histoire inspirée de faits réels. ©2017 Les Meilleurs" />
 
     <TextView
         android:text="Remerciements spéciaux"
@@ -169,21 +161,13 @@
         android:layout_marginEnd="32dp"
         android:textSize="9sp" />
 
-    <RelativeLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_alignParentEnd="true"
-        android:layout_above="@+id/textView99"
+    <ImageView
+        android:id="@+id/imageView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/icon_hd"
         android:layout_below="@+id/textView98"
-        android:id="@+id/relativeLayout3">
-
-        <ImageView
-            android:id="@+id/imageView20"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            app:srcCompat="@drawable/icon_hd"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true" />
-    </RelativeLayout>
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/textView99" />
 
 </RelativeLayout>
