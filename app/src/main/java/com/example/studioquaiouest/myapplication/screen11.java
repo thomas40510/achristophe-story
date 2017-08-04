@@ -22,9 +22,6 @@ public class screen11 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_screen11);
 
-        SharedPreferences.Editor editor = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE).edit();
-        editor.putString("savedClass", "com.example.studioquaiouest.myapplication.screen11");
-        editor.commit();
     }
 
     /**

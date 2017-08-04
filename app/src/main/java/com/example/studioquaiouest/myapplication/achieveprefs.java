@@ -14,7 +14,8 @@ import android.view.View;
 
 public class achieveprefs extends Activity {
 
-    public static final String ACH_PREFS = "AchieveSavesFile";
+    //public static final String ACH_PREFS = "AchieveSavesFile";
+    public static final String ACH_PREFS = "TestSavesFile"; // for Dev_0408
     public static String[] Achieve = {"0", "0", "0", "0", "0","0", "0", "0", "0", "0", "0", "0", "0"};
 
     public static boolean[][] isUnlocked = new boolean[3][10];

@@ -29,7 +29,6 @@ public class screen9 extends AppCompatActivity {
         setContentView(R.layout.activity_screen9);
         TimePicker timePicker = (TimePicker) findViewById(R.id.timePicker);
         timePicker.setIs24HourView(true);
-        save.savedClass = screen9.class;
 
     }
 

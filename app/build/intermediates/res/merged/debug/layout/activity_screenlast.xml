@@ -29,7 +29,7 @@
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView13"
         android:layout_marginTop="21dp"
-        android:text="Cette page marque la fin de cette version... Les épisodes suivants arrivent avant la fin du mois d'Août !"
+        android:text="Cette page marque la fin de cette version..."
         android:textColor="@android:color/holo_blue_dark"
         android:textSize="16sp" />
 
@@ -60,9 +60,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
-        android:layout_below="@+id/textView14"
-        android:layout_marginTop="6dp"
-        android:text="Il paraît que personne lit ce que j'écris en rouge, donc j'ai changé de couleur ^^"
+        android:layout_below="@+id/textView205"
+        android:text="N'hésitez pas à me reporter les bugs..."
         android:textColor="@android:color/holo_blue_dark"
         android:textSize="16sp" />
 
@@ -70,12 +69,12 @@
         android:id="@+id/textView15"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentEnd="true"
-        android:layout_below="@+id/textView21"
-        android:layout_marginTop="15dp"
+        android:layout_marginTop="57dp"
         android:text="Cordialement, sourire ;)"
         android:textColor="@android:color/holo_blue_dark"
-        android:textSize="16sp" />
+        android:textSize="16sp"
+        android:layout_below="@+id/textView21"
+        android:layout_alignParentEnd="true" />
 
     <Button
         android:text="Voir les crédits"
@@ -94,6 +93,27 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
         android:onClick="resetit"
-        android:text="Reset" />
+        android:text="Reset"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/textView205"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView14"
+        android:text="Il s'agit d'une version dev en Bêta fermée, merci de ne pas partager son contenu."
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/textView207"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PS : la version finale sera moins lourde tkt !"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textSize="16sp"
+        android:layout_below="@+id/textView21"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>

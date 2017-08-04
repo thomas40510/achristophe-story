@@ -8,6 +8,7 @@ import android.icu.util.Calendar;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.text.Html;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -19,6 +20,8 @@ import com.crashlytics.android.answers.Answers;
 import com.crashlytics.android.answers.CustomEvent;
 
 import io.smooch.ui.ConversationActivity;
+
+import static android.text.Html.fromHtml;
 
 public class day6 extends AppCompatActivity {
 
@@ -38,6 +41,19 @@ public class day6 extends AppCompatActivity {
 
             getName(view);
 
+        }
+
+        SharedPreferences prefs2 = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE);
+        int savedDay = prefs2.getInt("savedDay", 0);
+
+        int s = 6;
+
+        if (savedDay < s){
+            SharedPreferences.Editor editor2 = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE).edit();
+            editor2.putInt("savedDay", s);
+            editor2.commit();
+
+            Toast.makeText(this, "Progression Sauvegardée !", Toast.LENGTH_SHORT).show();
         }
 
     }
@@ -97,7 +113,7 @@ public class day6 extends AppCompatActivity {
     public void showName(){
         AlertDialog.Builder showname = new AlertDialog.Builder(this);
         showname.setTitle("Merci de confirmer")
-                .setMessage("Tu t'appelles donc "+userName+" c'est bien ça ?")
+                .setMessage("Tu t'appelles donc " + userName + " c'est bien ça ?"+"\n"+"Attention, tu ne pourras plus le changer !")
                 .setPositiveButton("C'est ça !", new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialogInterface, int i) {
@@ -120,7 +136,8 @@ public class day6 extends AppCompatActivity {
         String formattedDate = df.format(c.getTime());
 
 
-        Answers.getInstance().logCustom(new CustomEvent("End test")
+        //Answers.getInstance().logCustom(new CustomEvent("End")
+        Answers.getInstance().logCustom(new CustomEvent("End test") //for Dev_0408
                 .putCustomAttribute("User / Date", userName+" / "+formattedDate));
     }
 

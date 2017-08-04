@@ -109,7 +109,8 @@
         <activity
             android:name=".achieveD5"
             android:label="@string/title_activity_achieve_d5"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".DayChoose"></activity>
     </application>
 
 </manifest>

@@ -1,12 +1,21 @@
 package com.example.studioquaiouest.myapplication;
 
+import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
+import android.os.Vibrator;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
+import android.view.inputmethod.InputMethodManager;
+import android.widget.EditText;
+import android.widget.TextView;
+import android.widget.Toast;
+import android.widget.VideoView;
 
 import io.smooch.ui.ConversationActivity;
 
@@ -48,6 +57,60 @@ public class screen53 extends AppCompatActivity {
             default:
                 return super.onOptionsItemSelected(item);
         }
+    }
+
+    public void sendEmail(View view){
+
+        Log.i("Send email", "");
+
+        String[] TO = {"achristophe.story@gmail.com"};
+        Intent intent = new Intent(this, screen53.class);
+        Intent emailIntent = new Intent(Intent.ACTION_SEND);
+        emailIntent.setData(Uri.parse("mailto:"));
+        emailIntent.setType("text/plain");
+
+
+        emailIntent.putExtra(Intent.EXTRA_EMAIL, TO);
+        emailIntent.putExtra(Intent.EXTRA_SUBJECT, "Code request");
+        emailIntent.putExtra(Intent.EXTRA_TEXT, "mailcode.get()");
+
+        try {
+            startActivity(intent);
+            startActivity(Intent.createChooser(emailIntent, "Send mail..."));
+
+            finish();
+
+        } catch (android.content.ActivityNotFoundException ex) {
+            Toast.makeText(this,
+                    "There is no email client installed.", Toast.LENGTH_SHORT).show();
+        }
+
+    }
+
+    EditText codeTxt;
+
+    public void Verif (View view){
+        codeTxt = (EditText) findViewById(R.id.txtCode);
+        int code = Integer.parseInt(codeTxt.getText().toString());
+
+        if (code == 959208){
+            findViewById(R.id.txtWrong).setVisibility(View.INVISIBLE);
+            hideEmpty();
+            gotoNext(view);
+        } else {
+            findViewById(R.id.txtWrong).setVisibility(View.VISIBLE);
+            hideEmpty();
+            Vibrator v = (Vibrator) getSystemService(VIBRATOR_SERVICE);
+            v.vibrate(300);
+        }
+    }
+
+    public void hideEmpty (){
+        InputMethodManager inputManager = (InputMethodManager)
+                getSystemService(Context.INPUT_METHOD_SERVICE);
+        inputManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),
+                InputMethodManager.HIDE_NOT_ALWAYS);
+        codeTxt.setText("");
     }
 
     public void gotoNext (View view){

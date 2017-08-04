@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:2:1-115:12
+ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:2:1-116:12
 	package
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:3:5-56
 		INJECTED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml
@@ -50,7 +50,7 @@ MERGED from [com.google.firebase:firebase-iid:10.0.1] /Users/creation/.android/b
 	android:name
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:10:5-113:19
+ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:10:5-114:19
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/creation/.android/build-cache/16713608ce33bc6c4273159996fdf64dcc4ead75/output/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:beta:1.2.5] /Users/creation/.android/build-cache/5051459ff93cdc38d1999584d0fe21d87b52d0be/output/AndroidManifest.xml:11:5-20
 MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.3.17] /Users/creation/.android/build-cache/f756971b3ee57f5684cc026dc0bd686228249674/output/AndroidManifest.xml:54:5-20
@@ -397,13 +397,17 @@ ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xm
 	android:name
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:106:13-38
 activity#com.example.studioquaiouest.myapplication.achieveD5
-ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:109:9-112:58
+ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:109:9-112:59
 	android:label
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:111:13-62
 	android:theme
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:112:13-56
 	android:name
 		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:110:13-38
+activity#com.example.studioquaiouest.myapplication.DayChoose
+ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:113:9-56
+	android:name
+		ADDED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml:113:19-44
 uses-sdk
 INJECTED from /Users/creation/Desktop/MyApplication/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.crashlytics.sdk.android:crashlytics:2.6.8] /Users/creation/.android/build-cache/16713608ce33bc6c4273159996fdf64dcc4ead75/output/AndroidManifest.xml:7:5-43

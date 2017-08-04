@@ -23,11 +23,7 @@ int i = 0;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_screen19);
-        save.savedClass = screen19.class;
 
-        SharedPreferences.Editor editor = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE).edit();
-        editor.putString("savedClass", "com.example.studioquaiouest.myapplication.screen19");
-        editor.commit();
     }
 
     /**

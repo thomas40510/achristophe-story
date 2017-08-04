@@ -50,14 +50,14 @@
         app:srcCompat="@mipmap/icon" />
 
     <Button
-        android:text="Last"
+        android:id="@+id/button3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
-        android:id="@+id/button3"
         android:onClick="gotoLast"
-        android:visibility="visible" />
+        android:text="Last"
+        android:visibility="invisible" />
 
     <TextView
         android:text="Version : "
@@ -142,7 +142,8 @@
         android:layout_below="@+id/update"
         android:layout_marginStart="30dp"
         android:onClick="gotoLB"
-        android:text="Button" />
+        android:text="Button"
+        android:visibility="invisible" />
 
 
 </RelativeLayout>

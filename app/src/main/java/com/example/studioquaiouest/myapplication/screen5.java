@@ -24,9 +24,6 @@ public class screen5 extends AppCompatActivity{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_screen5);
 
-        SharedPreferences.Editor editor = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE).edit();
-        editor.putString("savedClass", "com.example.studioquaiouest.myapplication.screen5");
-        editor.commit();
     }
 
     /**

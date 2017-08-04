@@ -21,11 +21,7 @@ public class screen15 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_screen15);
-        save.savedClass = screen15.class;
 
-        SharedPreferences.Editor editor = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE).edit();
-        editor.putString("savedClass", "com.example.studioquaiouest.myapplication.screen15");
-        editor.commit();
 
         if (Easter.enable.equals("true") && Easter.easterday.equals("day2")){
         }
