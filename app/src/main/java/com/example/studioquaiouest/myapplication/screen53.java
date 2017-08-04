@@ -91,7 +91,9 @@ public class screen53 extends AppCompatActivity {
 
     public void Verif (View view){
         codeTxt = (EditText) findViewById(R.id.txtCode);
-        int code = Integer.parseInt(codeTxt.getText().toString());
+        String codeSt = codeTxt.getText().toString();
+        if (codeSt.isEmpty()) codeSt = "0";
+        int code = Integer.parseInt(codeSt);
 
         if (code == 959208){
             findViewById(R.id.txtWrong).setVisibility(View.INVISIBLE);

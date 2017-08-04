@@ -151,4 +151,21 @@
         android:typeface="serif"
         android:visibility="invisible" />
 
+    <TextView
+        android:id="@+id/textView47"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:text="Pablo"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView210"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/textView47"
+        android:text="Codé par : " />
+
 </RelativeLayout>

@@ -273,16 +273,8 @@ public class MainActivity extends AppCompatActivity {
                     public void onClick(DialogInterface dialog, int id) {
                         String code = password.getText().toString();
                         if(code.equals("2242")){
-                            SharedPreferences prefs = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE);
-                            save.saveCode = prefs.getString("savedClass", "");
-
-                            if (!save.saveCode.contains("com.example.studioquaiouest")){
-                                save.saveCode = "com.example.studioquaiouest.myapplication.screen2";
-                            }
-
-                            Intent last = new Intent();
-                            last.setClassName(getApplicationContext(), save.saveCode);
-                            startActivity(last);
+                            Intent intent = new Intent(getApplicationContext(), DayChoose.class);
+                            startActivity(intent);
                         }
                         else if(code.equals("1234")){
                             Intent stupid = new Intent(getApplicationContext(), stupid.class);

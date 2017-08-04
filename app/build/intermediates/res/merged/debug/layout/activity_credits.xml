@@ -35,7 +35,6 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:onClick="setTrue"
         android:text='"A Christophe Story"'
         android:textAllCaps="true"
         android:textSize="16sp"

@@ -86,16 +86,6 @@
         android:layout_alignParentEnd="true"
         android:onClick="gotoCredits" />
 
-    <Button
-        android:id="@+id/button15"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_alignParentStart="true"
-        android:onClick="resetit"
-        android:text="Reset"
-        android:visibility="visible" />
-
     <TextView
         android:id="@+id/textView205"
         android:layout_width="wrap_content"

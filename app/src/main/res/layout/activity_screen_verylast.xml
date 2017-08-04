@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="8dp"
+    android:layout_marginRight="8dp"
+    android:layout_marginTop="5dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textView13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="C'est la fin !"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="24sp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:id="@+id/textView209"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView13"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/tokentxt"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:onClick="gotoMain"
+        android:text="retour au début !" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button4"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:onClick="gotoCredits"
+        android:text="Voir les crédits"
+        android:visibility="visible" />
+
+    <TextView
+        android:id="@+id/tokentxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:clickable="true"
+        android:onClick="gettoken"
+        android:text="Get device FCM"
+        android:textSize="14sp" />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout6"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:visibility="gone">
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/button10"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView209"
+        android:layout_centerHorizontal="true">
+
+        <TextView
+            android:id="@+id/textView211"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:text="Bon cette fois c'est vraiment la fin..."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView212"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView211"
+            android:text="L'histoire est finie, la boucle est bouclée."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView213"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView212"
+            android:text="J'espère que vous aurez apprécié l'application, autant que j'ai apprécié la développer."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView214"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView213"
+            android:layout_centerHorizontal="true"
+            android:text="•••"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView215"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView214"
+            android:text="Merci mille - que dis-je - deux-mille fois à Pierre-Adrien pour son infiltration d'une qualité incroyable."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView224"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/textView221"
+            android:layout_below="@+id/textView221"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView219"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView218"
+            android:text="Il y aura sûrement des nouvelles màj, voire peut-être même des DLC ! xD"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView220"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView219"
+            android:layout_centerHorizontal="true"
+            android:text="•••"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView221"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView220"
+            android:text="Sur ce, c'étaient les derniers mots du développeur."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView216"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView215"
+            android:text="Comme on dit &quot;il faut rendre à César ce qui appartient à César&quot;, sans lui &quot;A Christophe Story&quot; n'aurait pas existé."
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView217"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView216"
+            android:layout_centerHorizontal="true"
+            android:text="•••"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView223"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@+id/textView224"
+            android:text="Cordialement, sourire ;)"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/textView218"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView217"
+            android:text="Bien sûr ce n'est pas parce que l'application est officiellement sortie et terminée que le développement va s'arrêter..."
+            android:textSize="14sp" />
+    </RelativeLayout>
+
+</RelativeLayout>

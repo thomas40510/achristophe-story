@@ -24,7 +24,7 @@ public class screenlast extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_screenlast);
+        setContentView(R.layout.activity_screen_verylast);
     }
 
     /**

@@ -59,7 +59,9 @@ public class screen61 extends AppCompatActivity {
 
     public void Verif (View view){
         codeTxt = (EditText) findViewById(R.id.txtCode);
-        int code = Integer.parseInt(codeTxt.getText().toString());
+        String codeSt = codeTxt.getText().toString();
+        if (codeSt.isEmpty()) codeSt = "0";
+        int code = Integer.parseInt(codeSt);
 
         VideoView vid = (VideoView) findViewById(R.id.vidWrong);
 

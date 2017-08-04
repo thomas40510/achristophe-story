@@ -64,6 +64,8 @@ public class screen65 extends AppCompatActivity {
         n = 0;
         unlockCount(view);
 
+        n = 19; //for Dev
+
         if (n >= 19){
             findViewById(R.id.txtWrong).setVisibility(View.INVISIBLE);
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
