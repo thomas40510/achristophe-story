@@ -138,12 +138,12 @@
         android:id="@+id/button12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/update"
-        android:layout_marginStart="30dp"
         android:onClick="gotoLB"
         android:text="Button"
-        android:visibility="visible" />
+        android:visibility="visible"
+        android:layout_below="@+id/update"
+        android:layout_toStartOf="@+id/imageView2"
+        android:layout_marginEnd="22dp" />
 
 
 </RelativeLayout>

@@ -180,7 +180,13 @@ public class Password extends AppCompatActivity {
                 findViewById(R.id.imgbomb).setVisibility(View.INVISIBLE);
                 findViewById(R.id.imgsatan).setVisibility(View.INVISIBLE);
             }
-            }
+        }
+    }
+
+    public void gotoLB (View view){
+
+        Intent intent = new Intent(this, leaderboard.class);
+        startActivity(intent);
     }
 }
 

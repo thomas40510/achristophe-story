@@ -8,41 +8,6 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:91049389695:android:05e573f83e6461e2",
-        "android_client_info": {
-          "package_name": "christophestory.apk"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "91049389695-5umjo4b5jq84vk20k5vmnretp6srd86a.apps.googleusercontent.com",
-          "client_type": 3
-        },
-        {
-          "client_id": "91049389695-lf85vrqm107gaffj5p4kpnpd6ccdimos.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCe-0GOrW5qJ-tVydhrpt3_IF8LD6BW6Nk"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    },
-    {
-      "client_info": {
         "mobilesdk_app_id": "1:91049389695:android:05030ec2b90726e9",
         "android_client_info": {
           "package_name": "com.example.studioquaiouest.myapplication"
@@ -50,11 +15,19 @@
       },
       "oauth_client": [
         {
+          "client_id": "91049389695-928n6ou330a0tkhos5l5ua1entmvv04e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studioquaiouest.myapplication",
+            "certificate_hash": "21c703d991c496d09a1213bb62d06782f06cc81e"
+          }
+        },
+        {
           "client_id": "91049389695-pi8nm7ga093js8p5ft15ce4rdtjgtk8m.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.studioquaiouest.myapplication",
-            "certificate_hash": "3E44F4E4B0D0097CC731727D62DBC8263E50C819"
+            "certificate_hash": "3e44f4e4b0d0097cc731727d62dbc8263e50c819"
           }
         },
         {
@@ -78,6 +51,13 @@
         "appinvite_service": {
           "status": 2,
           "other_platform_oauth_client": [
+            {
+              "client_id": "91049389695-k9ttao68cd4856ti37lkn0k1d01tf5q3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.acs.ios"
+              }
+            },
             {
               "client_id": "91049389695-5umjo4b5jq84vk20k5vmnretp6srd86a.apps.googleusercontent.com",
               "client_type": 3
