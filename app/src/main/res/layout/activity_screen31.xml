@@ -25,7 +25,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:text="Notre ami le Belge, comme son nom l'indique, (bien qu'il serait capable de demander confirmation on sait jamais), vient de Belgique." />
+        android:text="Notre ami le Belge, comme son nom l'indique, (bien qu'il serait capable de demander confirmation on sait jamais) vient de Belgique." />
 
     <TextView
         android:id="@+id/textView127"
