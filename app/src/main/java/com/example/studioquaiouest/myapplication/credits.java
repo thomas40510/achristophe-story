@@ -79,6 +79,7 @@ public class credits extends AppCompatActivity {
                         resetProgress();
 
                         Toast.makeText(getApplicationContext(), "Progress reset !", Toast.LENGTH_SHORT).show();
+                        gotoMain();
                     }
                 })
                 .setNegativeButton("Les Achievements !", new DialogInterface.OnClickListener() {
@@ -96,6 +97,7 @@ public class credits extends AppCompatActivity {
                         resetProgress();
 
                         Toast.makeText(getApplicationContext(), "All reset !", Toast.LENGTH_SHORT).show();
+                        gotoMain();
 
                         if (annihilate && canAnnihilate) {
                             SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
@@ -161,6 +163,11 @@ public class credits extends AppCompatActivity {
         }
 
         achprefs.writeUnlock(this);
+    }
+
+    public void gotoMain(){
+        Intent intent = new Intent(this, MainActivity.class);
+        startActivity(intent);
     }
 
 

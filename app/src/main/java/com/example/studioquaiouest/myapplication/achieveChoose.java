@@ -50,18 +50,22 @@ public class achieveChoose extends AppCompatActivity {
             }
         }
         if (hasNext) {
-            String className = "com.example.studioquaiouest.myapplication.achieveD" + isChecked;
-            Class<?> c = null;
-            try {
-                c = Class.forName(className);
-            } catch (ClassNotFoundException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-                Log.e("error", "class not implemented yet");
-            }
+            if (isChecked == 2){
+                Toast.makeText(this, "Il n'y a pas encore d'achievements ici !", Toast.LENGTH_SHORT).show();
+            } else {
+                String className = "com.example.studioquaiouest.myapplication.achieveD" + isChecked;
+                Class<?> c = null;
+                try {
+                    c = Class.forName(className);
+                } catch (ClassNotFoundException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                    Log.e("error", "class not implemented yet");
+                }
 
-            Intent intent = new Intent(this, c);
-            startActivity(intent);
+                Intent intent = new Intent(this, c);
+                startActivity(intent);
+            }
         } else {
             Toast.makeText(this, "Vous n'avez pas choisi !", Toast.LENGTH_SHORT).show();
         }
