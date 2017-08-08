@@ -64,6 +64,12 @@ public class day1 extends AppCompatActivity {
         }
     }
 
+    public void gotoIntro (View view){
+        Intent intro = new Intent(this, intro.class);
+        gotoNext(view);
+        startActivity(intro);
+    }
+
     public void gotoNext (View view){
         Intent intent = new Intent(this, screen2.class);
         intent.putExtra("screenshot", 1);

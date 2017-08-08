@@ -24,6 +24,7 @@ public class epilogue extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_epilogue);
+        setTitle("\"Le Spectacle\" - Épilogue");
 
         e = 63;
         setEpi();

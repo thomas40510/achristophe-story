@@ -78,35 +78,42 @@ public class Password extends AppCompatActivity {
                     getSystemService(Context.INPUT_METHOD_SERVICE);
             inputManager.hideSoftInputFromWindow(getCurrentFocus().getWindowToken(),
                     InputMethodManager.HIDE_NOT_ALWAYS);
-            AlertDialog.Builder dialog = new AlertDialog.Builder(this);
-            dialog.setTitle("Avant de commencer...")
-                    .setMessage("Souhaitez-vous voir l'introduction ?")
-                    /**.setMultiChoiceItems(items, null, new DialogInterface.OnMultiChoiceClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialog, int which, boolean isChecked) {
-                            if (isChecked){
-                                choice = 1;
+
+            SharedPreferences prefs = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE);
+
+            if (prefs.getInt("savedDay", 0) == 0) {
+                AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+                dialog.setTitle("Avant de commencer...")
+                        .setMessage("Souhaitez-vous voir l'introduction ?")
+                        /**.setMultiChoiceItems(items, null, new DialogInterface.OnMultiChoiceClickListener() {
+                        @Override public void onClick(DialogInterface dialog, int which, boolean isChecked) {
+                        if (isChecked){
+                        choice = 1;
+                        }
+                        }
+                        })
+                         */
+                        .setPositiveButton("Oui !", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                Intent intent = new Intent(getApplicationContext(), day1.class);
+                                startActivity(intent);
+                                Intent intent2 = new Intent(getApplicationContext(), intro.class);
+                                startActivity(intent2);
                             }
-                        }
-                    })
-                     */
-                    .setPositiveButton("Oui !", new DialogInterface.OnClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialog, int which) {
-                            Intent intent = new Intent(getApplicationContext(), day1.class);
-                            startActivity(intent);
-                            Intent intent2 = new Intent(getApplicationContext(), intro.class);
-                            startActivity(intent2);
-                        }
-                    })
-                    .setNegativeButton("Nope !", new DialogInterface.OnClickListener() {
-                        @Override
-                        public void onClick(DialogInterface dialog, int which) {
-                            Intent intent = new Intent(getApplicationContext(), day1.class);
-                            startActivity(intent);
-                        }
-                    });
-            dialog.show();
+                        })
+                        .setNegativeButton("Nope !", new DialogInterface.OnClickListener() {
+                            @Override
+                            public void onClick(DialogInterface dialog, int which) {
+                                Intent intent = new Intent(getApplicationContext(), day1.class);
+                                startActivity(intent);
+                            }
+                        });
+                dialog.show();
+            } else {
+                Intent next = new Intent(this, day1.class);
+                startActivity(next);
+            }
             pswd.setText("");
         }
         else if (code.equals("1234")){

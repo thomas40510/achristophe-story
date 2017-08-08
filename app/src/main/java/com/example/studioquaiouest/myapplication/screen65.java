@@ -64,13 +64,13 @@ public class screen65 extends AppCompatActivity {
         n = 0;
         unlockCount(view);
 
-        n = 19; //for Dev
+        n = 19; //for Dev// TODO : remove for final release
 
         if (n >= 19){
             findViewById(R.id.txtWrong).setVisibility(View.INVISIBLE);
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle("Félicitations !")
-                    .setMessage("Je crois qu nous avons trouvé un nouvel expert... Vous pouvez passer à la suite.")
+                    .setMessage("Je crois que nous avons trouvé un nouvel expert... Vous pouvez passer à la suite.")
                     .setPositiveButton("C'est parti !", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
