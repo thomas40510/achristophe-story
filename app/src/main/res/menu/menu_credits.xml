@@ -10,7 +10,7 @@
         android:id="@+id/achieve"
         android:title="Achievements" />
     <item
-        android:id="@+id/msg"
-        android:title="Messages" />
+        android:id="@+id/changelog"
+        android:title="Changelog" />
 
 </menu>

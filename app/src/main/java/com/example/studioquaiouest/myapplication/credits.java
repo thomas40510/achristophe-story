@@ -4,6 +4,7 @@ import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.provider.ContactsContract;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -56,8 +57,12 @@ public class credits extends AppCompatActivity {
                 Intent achieve = new Intent(this, achieveChoose.class);
                 startActivity(achieve);
                 return true;
-            case R.id.msg:
-                ConversationActivity.show(this);
+            case R.id.changelog:
+
+                final Uri changelogUri = Uri.parse("https://drive.google.com/open?id=18xJ-AUdhIm4W48Nupz0IxD8Pah3bsnHX4iLpNDaIsnc");
+                Intent openUpdate = new Intent(Intent.ACTION_VIEW, changelogUri);
+                startActivity(openUpdate);
+
                 return true;
             default:
                 return super.onOptionsItemSelected(item);

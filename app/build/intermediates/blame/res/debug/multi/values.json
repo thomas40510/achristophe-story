@@ -1484,14 +1484,7 @@
                     "endOffset": 15218
                 },
                 "from": {
-                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 570,
-                        "endColumn": 40,
-                        "endOffset": 606
-                    }
+                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -2043,14 +2036,7 @@
                     "endOffset": 18586
                 },
                 "from": {
-                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 490,
-                        "endColumn": 38,
-                        "endOffset": 524
-                    }
+                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -2554,14 +2540,7 @@
                     "endOffset": 21282
                 },
                 "from": {
-                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/colors.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 529,
-                        "endColumn": 40,
-                        "endOffset": 565
-                    }
+                    "file": "/Users/creation/Desktop/MyApplication/app/src/main/res/values/colors.xml"
                 }
             },
             {
@@ -7577,7 +7556,14 @@
                     "endOffset": 98088
                 },
                 "from": {
-                    "file": "/Users/creation/Desktop/MyApplication/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml"
+                    "file": "/Users/creation/Desktop/MyApplication/app/build/generated/fabric/res/debug/values/com_crashlytics_build_id.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 303,
+                        "endColumn": 162,
+                        "endOffset": 465
+                    }
                 }
             },
             {

@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.net.Uri;
 import android.os.Vibrator;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
@@ -181,6 +182,13 @@ public class Password extends AppCompatActivity {
                 findViewById(R.id.imgsatan).setVisibility(View.INVISIBLE);
             }
         }
+    }
+
+    public void openChangelog(View view){
+
+        final Uri changelogUri = Uri.parse("https://drive.google.com/open?id=18xJ-AUdhIm4W48Nupz0IxD8Pah3bsnHX4iLpNDaIsnc");
+        Intent openUpdate = new Intent(Intent.ACTION_VIEW, changelogUri);
+        startActivity(openUpdate);
     }
 
     public void gotoLB (View view){
