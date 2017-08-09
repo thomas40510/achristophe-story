@@ -109,7 +109,7 @@ public class epilogue extends AppCompatActivity {
         }
         else {
             //Intent intent = new Intent(this, veryLast.class);
-            Intent intent = new Intent(this, screenlast.class); //TODO create and link to "verylastScreen.class"
+            Intent intent = new Intent(this, screenlast.class);
             startActivity(intent);
         }
     }

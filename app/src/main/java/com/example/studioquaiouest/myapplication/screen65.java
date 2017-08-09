@@ -64,7 +64,6 @@ public class screen65 extends AppCompatActivity {
         n = 0;
         unlockCount(view);
 
-        n = 19; //for Dev// TODO : remove for final release
 
         if (n >= 19){
             findViewById(R.id.txtWrong).setVisibility(View.INVISIBLE);

@@ -68,10 +68,6 @@ public class Password extends AppCompatActivity {
         EditText pswd = (EditText) findViewById(R.id.pswd);
         String code = pswd.getText().toString();
 
-        if (code.equals("111")){
-            Intent intent = new Intent(this, screen33.class);
-            startActivity(intent);
-        }
 
         if (code.equals("2242")){
             InputMethodManager inputManager = (InputMethodManager)
@@ -193,7 +189,7 @@ public class Password extends AppCompatActivity {
 
     public void openChangelog(View view){
 
-        final Uri changelogUri = Uri.parse("https://drive.google.com/open?id=18xJ-AUdhIm4W48Nupz0IxD8Pah3bsnHX4iLpNDaIsnc");
+        final Uri changelogUri = Uri.parse("https://docs.google.com/document/d/18xJ-AUdhIm4W48Nupz0IxD8Pah3bsnHX4iLpNDaIsnc/edit?usp=sharing");
         Intent openUpdate = new Intent(Intent.ACTION_VIEW, changelogUri);
         startActivity(openUpdate);
     }

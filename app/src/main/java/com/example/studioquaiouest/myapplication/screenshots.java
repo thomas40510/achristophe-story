@@ -38,10 +38,6 @@ public class screenshots extends AppCompatActivity {
         Drawable res = getResources().getDrawable(ImageRessource);
         imageView.setImageDrawable(res);
 
-        // TODO create array String with button text depending on value of i and handle it here
-        Button button = (Button) findViewById(R.id.next);
-        String text = " "+i;
-        button.setText(text);
     }
 
     /**
