@@ -239,7 +239,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void gotoLB (View view){
 
-        Intent intent = new Intent(this, screenlast.class);
+        Intent intent = new Intent(this, screen21.class);
         startActivity(intent);
     }
 

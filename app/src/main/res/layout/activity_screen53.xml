@@ -50,7 +50,8 @@
         android:layout_alignBottom="@+id/textView204"
         android:layout_toEndOf="@+id/textView204"
         android:onClick="sendEmail"
-        android:text="mail..." />
+        android:text="mail..."
+        android:textStyle="italic" />
 
     <EditText
         android:id="@+id/txtCode"

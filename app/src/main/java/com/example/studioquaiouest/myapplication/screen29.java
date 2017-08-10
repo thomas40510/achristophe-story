@@ -62,7 +62,7 @@ public class screen29 extends AppCompatActivity {
     public void Verif (View view){
 
         EditText phoneNbr = (EditText)findViewById(R.id.txtNumber);
-        number = phoneNbr.getText().toString();
+        number = phoneNbr.getText().toString().replaceAll("\\s", "");
 
 
         if (number.equals("0768270098")){

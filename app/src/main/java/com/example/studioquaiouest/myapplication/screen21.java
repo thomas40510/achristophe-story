@@ -22,6 +22,17 @@ public class screen21 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_screen21);
+
+        SharedPreferences prefs = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE);
+        int savedDay = prefs.getInt("savedDay", 0);
+
+        if (savedDay < 2){
+            SharedPreferences.Editor editor = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE).edit();
+            editor.putInt("savedDay", 7);
+            editor.commit();
+
+            Toast.makeText(this, "Progression Sauvegardée !", Toast.LENGTH_SHORT).show();
+        }
     }
     /**
      * Actions for toolbar menu

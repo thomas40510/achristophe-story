@@ -19,14 +19,20 @@ public class DayChoose extends AppCompatActivity {
         SharedPreferences prefs = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE);
         int saveDay = prefs.getInt("savedDay", 0);
 
+        if (saveDay > 1){
+            findViewById(R.id.buttonD7).setEnabled(true);
+        }
+
         int i = 1;
 
         while (saveDay >= i){
-            String buttonId = "buttonD"+i;
-            int resId = getResources().getIdentifier(buttonId, "id", getPackageName());
-            findViewById(resId).setEnabled(true);
+            if (i !=7) {
+                String buttonId = "buttonD" + i;
+                int resId = getResources().getIdentifier(buttonId, "id", getPackageName());
+                findViewById(resId).setEnabled(true);
 
-            i++;
+                i++;
+            }
         }
 
     }
@@ -35,7 +41,7 @@ public class DayChoose extends AppCompatActivity {
 
         int isChecked = 0;
         boolean hasNext = false;
-        for (int i = 1; i < 7; i++) {
+        for (int i = 1; i < 8; i++) {
             String radioID = "buttonD" + i;
             int resID = getResources().getIdentifier(radioID, "id", getPackageName());
             if (((RadioButton) findViewById(resID)).isChecked()) {
@@ -44,21 +50,28 @@ public class DayChoose extends AppCompatActivity {
                 break;
             }
         }
-        if (hasNext) {
-            String className = "com.example.studioquaiouest.myapplication.day" + isChecked;
-            Class<?> c = null;
-            try {
-                c = Class.forName(className);
-            } catch (ClassNotFoundException e) {
-                // TODO Auto-generated catch block
-                e.printStackTrace();
-            }
 
-            Intent intent = new Intent(this, c);
+        if (isChecked == 7){
+            Intent intent = new Intent(this, screen21.class);
             startActivity(intent);
-
         } else {
-            Toast.makeText(this, "Vous n'avez pas choisi !", Toast.LENGTH_SHORT).show();
+
+            if (hasNext) {
+                String className = "com.example.studioquaiouest.myapplication.day" + isChecked;
+                Class<?> c = null;
+                try {
+                    c = Class.forName(className);
+                } catch (ClassNotFoundException e) {
+                    // TODO Auto-generated catch block
+                    e.printStackTrace();
+                }
+
+                Intent intent = new Intent(this, c);
+                startActivity(intent);
+
+            } else {
+                Toast.makeText(this, "Vous n'avez pas choisi !", Toast.LENGTH_SHORT).show();
+            }
         }
     }
 

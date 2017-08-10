@@ -25,7 +25,7 @@ public class day2 extends AppCompatActivity {
 
         int s = 2;
 
-        if (savedDay < s){
+        if (savedDay < s || savedDay == 7){
             SharedPreferences.Editor editor = getSharedPreferences(save.MY_PREFS, MODE_PRIVATE).edit();
             editor.putInt("savedDay", s);
             editor.commit();
