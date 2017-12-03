@@ -1,15 +1,8 @@
 package com.example.studioquaiouest.myapplication;
 
-import android.app.Service;
-import android.content.Intent;
-import android.os.IBinder;
 import android.util.Log;
-import android.widget.Toast;
 
-import com.google.firebase.FirebaseApp;
 import com.google.firebase.messaging.RemoteMessage;
-
-import io.smooch.core.Smooch;
 
 import static com.google.android.gms.plus.PlusOneDummyView.TAG;
 

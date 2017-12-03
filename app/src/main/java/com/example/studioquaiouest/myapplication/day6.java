@@ -5,10 +5,9 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.icu.text.SimpleDateFormat;
 import android.icu.util.Calendar;
+import android.os.Bundle;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
-import android.text.Html;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -20,8 +19,6 @@ import com.crashlytics.android.answers.Answers;
 import com.crashlytics.android.answers.CustomEvent;
 
 import io.smooch.ui.ConversationActivity;
-
-import static android.text.Html.fromHtml;
 
 public class day6 extends AppCompatActivity {
 
@@ -66,7 +63,7 @@ public class day6 extends AppCompatActivity {
     //load menu file//
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_intro, menu); //your file name
+        inflater.inflate(R.menu.menu_basic, menu); //your file name
         return super.onCreateOptionsMenu(menu);
 
     }

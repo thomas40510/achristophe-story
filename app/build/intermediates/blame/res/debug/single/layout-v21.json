@@ -1,22 +1,22 @@
 [
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout-v21/notification_template_icon_group.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout-v21/notification_action.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\layout-v21\\notification_action.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout-v21/notification_template_custom_big.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\e4e6b97f9032fccdfcd53cec04567b5672054900\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
-        "source": "/Users/creation/.android/build-cache/67e28d1f11f36b227669f48d68016691c3631d7a/output/res/layout-v21/place_autocomplete_fragment.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\layout-v21\\notification_template_icon_group.xml"
     }
 ]

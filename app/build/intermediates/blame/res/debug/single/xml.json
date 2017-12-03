@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/xml/remote_config_defaults.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/xml/remote_config_defaults.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml\\file_paths.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\xml\\file_paths.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/xml/file_paths.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/xml/file_paths.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\xml\\remote_config_defaults.xml",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\xml\\remote_config_defaults.xml"
     }
 ]

@@ -5,10 +5,10 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
+import android.os.Bundle;
 import android.os.Vibrator;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -19,6 +19,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import io.smooch.ui.ConversationActivity;
+
+import static com.example.studioquaiouest.myapplication.achieveprefs.ACH_PREFS;
+import static com.example.studioquaiouest.myapplication.achieveprefs.isUnlocked;
 
 public class Password extends AppCompatActivity {
 
@@ -36,7 +39,7 @@ public class Password extends AppCompatActivity {
     //load menu file//
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_intro, menu); //your file name
+        inflater.inflate(R.menu.menu_basic, menu); //your file name
         return super.onCreateOptionsMenu(menu);
     }
 
@@ -68,6 +71,24 @@ public class Password extends AppCompatActivity {
         EditText pswd = (EditText) findViewById(R.id.pswd);
         String code = pswd.getText().toString();
 
+        //handle DEV Shortcut code
+        if (code.contains("1811") && code.length()==6){
+            Character character = code.charAt(code.length()-1);
+            String s = character.toString();
+
+            String className = "com.example.studioquaiouest.myapplication.day"+s;
+            Class<?> nextclass = null;
+            try {
+                nextclass = Class.forName(className);
+            } catch (ClassNotFoundException e) {
+                // TODO Auto-generated catch block
+                e.printStackTrace();
+            }
+
+            Intent nextIntent = new Intent(this, nextclass);
+            startActivity(nextIntent);
+        }
+        //end of handle DEV shortcut mode
 
         if (code.equals("2242")){
             InputMethodManager inputManager = (InputMethodManager)
@@ -123,11 +144,11 @@ public class Password extends AppCompatActivity {
                 findViewById(R.id.imgsatan).setVisibility(View.INVISIBLE);
                 findViewById(R.id.imgbomb).setVisibility(View.VISIBLE);
 
-                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                achieveprefs.isUnlocked[0][7] = prefs.getBoolean("achieveSave07", false);
+                SharedPreferences prefs = getSharedPreferences(ACH_PREFS, MODE_PRIVATE);
+                isUnlocked[0][7] = prefs.getBoolean("achieveSave07", false);
 
-                if (!achieveprefs.isUnlocked[0][7]){
-                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                if (!isUnlocked[0][7]){
+                    SharedPreferences.Editor editor = getSharedPreferences(ACH_PREFS, MODE_PRIVATE).edit();
                     editor.putBoolean("achieveSave07", true);
                     editor.commit();
                     Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
@@ -136,11 +157,11 @@ public class Password extends AppCompatActivity {
             }
             if (code.equals("2201")) {
 
-                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                achieveprefs.isUnlocked[0][5] = prefs.getBoolean("achieveSave05", false);
+                SharedPreferences prefs = getSharedPreferences(ACH_PREFS, MODE_PRIVATE);
+                isUnlocked[0][5] = prefs.getBoolean("achieveSave05", false);
 
-                if (!achieveprefs.isUnlocked[0][5]){
-                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                if (!isUnlocked[0][5]){
+                    SharedPreferences.Editor editor = getSharedPreferences(ACH_PREFS, MODE_PRIVATE).edit();
                     editor.putBoolean("achieveSave05", true);
                     editor.commit();
                     Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();
@@ -155,11 +176,11 @@ public class Password extends AppCompatActivity {
                 satantxt.setText("SATAN EST NOTRE DIEU A TOUS !!");
                 satantxt.setVisibility(View.VISIBLE);
 
-                SharedPreferences prefs = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE);
-                achieveprefs.isUnlocked[0][8] = prefs.getBoolean("achieveSave08", false);
+                SharedPreferences prefs = getSharedPreferences(ACH_PREFS, MODE_PRIVATE);
+                isUnlocked[0][8] = prefs.getBoolean("achieveSave08", false);
 
-                if (!achieveprefs.isUnlocked[0][8]){
-                    SharedPreferences.Editor editor = getSharedPreferences(achieveprefs.ACH_PREFS, MODE_PRIVATE).edit();
+                if (!isUnlocked[0][8]){
+                    SharedPreferences.Editor editor = getSharedPreferences(ACH_PREFS, MODE_PRIVATE).edit();
                     editor.putBoolean("achieveSave08", true);
                     editor.commit();
                     Toast.makeText(this, "Achievement unlocked !", Toast.LENGTH_SHORT).show();

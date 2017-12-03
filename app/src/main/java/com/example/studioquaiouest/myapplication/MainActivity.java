@@ -3,27 +3,24 @@ package com.example.studioquaiouest.myapplication;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.Intent;
 import android.content.SharedPreferences;
 import android.net.Uri;
+import android.os.Bundle;
 import android.os.Vibrator;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.text.method.PasswordTransformationMethod;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.content.Intent;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.crashlytics.android.answers.Answers;
-import com.crashlytics.android.answers.ContentViewEvent;
-import com.crashlytics.android.answers.CustomEvent;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
 import com.google.firebase.remoteconfig.FirebaseRemoteConfig;
@@ -59,6 +56,8 @@ public class MainActivity extends AppCompatActivity {
         String version = BuildConfig.VERSION_NAME;
         versionname.setText(version);
 
+
+
         restoreEaster();
 
         mWelcomeTextView = (TextView) findViewById(R.id.welcomeMsg);
@@ -90,6 +89,7 @@ public class MainActivity extends AppCompatActivity {
 
         fetchWelcome();
         Randomize();
+
     }
 /**
  * Actions for toolbar menu
@@ -98,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
     //load menu file//
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_intro, menu); //your file name
+        inflater.inflate(R.menu.menu_basic, menu); //your file name
         return super.onCreateOptionsMenu(menu);
     }
 

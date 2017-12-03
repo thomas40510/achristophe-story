@@ -1,4 +1,4 @@
-#Thu Aug 10 09:10:03 CEST 2017
-base.0=/Users/creation/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6
+#Sun Dec 03 23:14:46 CET 2017
+base.0=G\:\\MEGA\\MyApplication\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
 renamed.0=classes.dex
-file.0=/Users/creation/Desktop/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex

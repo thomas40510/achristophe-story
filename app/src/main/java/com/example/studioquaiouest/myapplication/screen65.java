@@ -2,10 +2,10 @@ package com.example.studioquaiouest.myapplication;
 
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.os.Bundle;
 import android.os.Vibrator;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
@@ -33,7 +33,7 @@ public class screen65 extends AppCompatActivity {
     //load menu file//
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_intro, menu); //your file name
+        inflater.inflate(R.menu.menu_basic, menu); //your file name
         return super.onCreateOptionsMenu(menu);
     }
 
@@ -65,7 +65,9 @@ public class screen65 extends AppCompatActivity {
         unlockCount(view);
 
 
-        if (n >= 19){
+        // previous condition, patched in v1.2
+        // if (n >= 19){
+        if (n>=15){
             findViewById(R.id.txtWrong).setVisibility(View.INVISIBLE);
             AlertDialog.Builder builder = new AlertDialog.Builder(this);
             builder.setTitle("Félicitations !")

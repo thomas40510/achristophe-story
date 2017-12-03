@@ -1,13 +1,8 @@
 package com.example.studioquaiouest.myapplication;
 
 import android.app.Activity;
-
-import android.app.Application;
 import android.content.Context;
 import android.content.SharedPreferences;
-import android.view.View;
-
-import java.util.Arrays;
 
 
 /**
@@ -40,6 +35,7 @@ public class achieveprefs extends Activity {
         for (int w = 0 ; w < 3 ; w++){
             for (int x = 0 ; x < 10 ; x++){
                 editor.putBoolean(write+w+x, isUnlocked[w][x]);
+                //editor.putBoolean(write+w+x, true);
             }
         }
         editor.commit();

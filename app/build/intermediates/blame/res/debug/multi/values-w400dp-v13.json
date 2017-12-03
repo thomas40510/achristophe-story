@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/creation/Desktop/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w400dp-v13/values-w400dp-v13.xml",
+        "outputFile": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w400dp-v13\\values-w400dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/values-w400dp-v13/values-w400dp-v13.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\values-w400dp-v13\\values-w400dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 165
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/values-w400dp-v13/values-w400dp-v13.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\values-w400dp-v13\\values-w400dp-v13.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 219
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/values-w400dp-v13/values-w400dp-v13.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\values-w400dp-v13\\values-w400dp-v13.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

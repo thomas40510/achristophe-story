@@ -1,13 +1,13 @@
 package com.example.studioquaiouest.myapplication;
 
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.view.View;
-import android.content.Intent;
 import android.widget.ImageView;
 import android.widget.Toast;
 
@@ -42,7 +42,7 @@ public class screen2 extends AppCompatActivity {
     //load menu file//
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_intro, menu);//your file name
+        inflater.inflate(R.menu.menu_basic, menu);//your file name
         return super.onCreateOptionsMenu(menu);
     }
     @Override

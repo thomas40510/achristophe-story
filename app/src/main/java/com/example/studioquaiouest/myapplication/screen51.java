@@ -4,10 +4,10 @@ import android.animation.ObjectAnimator;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Point;
+import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.view.Display;
 import android.view.Menu;
 import android.view.MenuInflater;
@@ -50,7 +50,7 @@ public class screen51 extends AppCompatActivity {
     //load menu file//
     public boolean onCreateOptionsMenu(Menu menu) {
         MenuInflater inflater = getMenuInflater();
-        inflater.inflate(R.menu.menu_intro, menu); //your file name
+        inflater.inflate(R.menu.menu_basic, menu); //your file name
         return super.onCreateOptionsMenu(menu);
     }
 

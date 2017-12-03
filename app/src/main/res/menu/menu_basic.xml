@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.studioquaiouest.myapplication.MainActivity">
+    <item
+        android:id="@+id/open_Smooch"
+        android:orderInCategory="200"
+        android:title="Messages"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/open_achievements"
+        android:orderInCategory="200"
+        android:title="Achievements"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/open_credits"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+</menu>

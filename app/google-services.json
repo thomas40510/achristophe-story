@@ -52,15 +52,15 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
+              "client_id": "91049389695-5umjo4b5jq84vk20k5vmnretp6srd86a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
               "client_id": "91049389695-k9ttao68cd4856ti37lkn0k1d01tf5q3.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.acs.ios"
               }
-            },
-            {
-              "client_id": "91049389695-5umjo4b5jq84vk20k5vmnretp6srd86a.apps.googleusercontent.com",
-              "client_type": 3
             }
           ]
         },
