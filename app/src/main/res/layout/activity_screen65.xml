@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -41,7 +40,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
         android:layout_below="@+id/textView181"
-        android:text="Cela pourrait être, par exemple, quelqu'un qui aurait au moins 19 achievements..." />
+        android:text="Cela pourrait être, par exemple, quelqu'un qui aurait au moins 15 achievements..." />
 
     <TextView
         android:id="@+id/textView195"
@@ -66,7 +65,7 @@
         android:layout_height="wrap_content"
         android:layout_centerVertical="true"
         android:layout_toEndOf="@+id/textView196"
-        android:text="19"
+        android:text="15"
         android:textSize="40sp" />
 
     <TextView

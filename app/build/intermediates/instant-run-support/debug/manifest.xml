@@ -2,11 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.studioquaiouest.myapplication"
     android:versionCode="3"
-    android:versionName="1.1" >
+    android:versionName="Dev" >
 
     <uses-sdk
         android:minSdkVersion="22"
-        android:targetSdkVersion="25" />
+        android:targetSdkVersion="26" />
 
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
@@ -71,6 +71,13 @@
         <service android:name="com.example.studioquaiouest.myapplication.FirebaseMessagingService" >
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.example.studioquaiouest.myapplication.MyFirebaseInstanceIdService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
             </intent-filter>
         </service>
 
@@ -140,16 +147,23 @@
             android:label="@string/title_activity_achieve_d5"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity android:name="com.example.studioquaiouest.myapplication.DayChoose" />
-        <activity
-            android:name="com.google.android.gms.appinvite.PreviewActivity"
-            android:exported="true"
-            android:theme="@style/Theme.AppInvite.Preview" >
-            <intent-filter>
-                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
 
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
+        <receiver
+            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
+
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
             android:excludeFromRecents="true"
@@ -175,6 +189,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <activity
             android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+            android:exported="true"
             android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
             <intent-filter>
                 <data android:scheme="tagmanager.c.com.example.studioquaiouest.myapplication" />
@@ -188,19 +203,32 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:exported="false"
             android:theme="@android:style/Theme.Translucent" />
+
+        <meta-data
+            android:name="android.support.VERSION"
+            android:value="26.1.0" />
+
         <activity
-            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
-            android:theme="@style/Theme.IAPTheme" />
+            android:name="com.google.android.gms.appinvite.PreviewActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppInvite.Preview" >
+            <intent-filter>
+                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="io.smooch.ui.ConversationActivity"
+            android:configChanges="orientation|screenSize"
             android:label="@string/Smooch_activityConversation"
             android:launchMode="singleTask"
             android:theme="@style/Theme.Smooch" />
         <activity
             android:name="io.smooch.ui.widget.ImageActivity"
-            android:theme="@style/Theme.AppCompat.NoActionBar.FullScreen" >
-        </activity>
+            android:theme="@style/Theme.AppCompat.NoActionBar.FullScreen" />
 
         <receiver
             android:name="io.smooch.ui.notification.NotificationReceiver"
@@ -217,8 +245,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:grantUriPermissions="true" >
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
-                android:resource="@xml/file_paths" >
-            </meta-data>
+                android:resource="@xml/file_paths" />
         </provider>
 
         <activity
@@ -250,6 +277,7 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
             android:enabled="true"
+            android:exported="true"
             android:permission="android.permission.INSTALL_PACKAGES" >
             <intent-filter>
                 <action android:name="com.android.vending.INSTALL_REFERRER" />
@@ -260,6 +288,11 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:name="com.google.android.gms.measurement.AppMeasurementService"
             android:enabled="true"
             android:exported="false" />
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+            android:enabled="true"
+            android:exported="false"
+            android:permission="android.permission.BIND_JOB_SERVICE" />
         <!--
  FirebaseMessagingService performs security checks at runtime,
              no need for explicit permissions despite exported="true"
@@ -278,18 +311,10 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
             android:permission="com.google.android.c2dm.permission.SEND" >
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
 
                 <category android:name="com.example.studioquaiouest.myapplication" />
             </intent-filter>
         </receiver>
-        <!--
- Internal (not exported) receiver used by the app to start its own exported services
-             without risk of being spoofed.
-        -->
-        <receiver
-            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
-            android:exported="false" />
         <!--
  FirebaseInstanceIdService performs security checks at runtime,
              no need for explicit permissions despite exported="true"
@@ -311,6 +336,9 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="android.arch.lifecycle.VERSION"
+            android:value="27.0.0-SNAPSHOT" />
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"

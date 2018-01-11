@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
-        "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\93d5973b68549bf3e55e2ed28a05996b42709890\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
-        "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\93d5973b68549bf3e55e2ed28a05996b42709890\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_clear_black_24dp.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable-anydpi-v21\\ic_clear_black_24dp.xml"
     }
 ]

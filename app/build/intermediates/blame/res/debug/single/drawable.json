@@ -1,542 +1,646 @@
 [
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_close_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam5.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\spam5.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/ic_expand.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_dialog_close_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_cast_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_primary_color.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_primary_color.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/ic_collapse.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_expand.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_group_expand.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_search_black_24dp.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/ic_search_black_24dp.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_bg_darkener.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_bg_darkener.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_ab_back_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_group_collapse.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_group_collapse.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_mute.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\trumpno.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\trumpno.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_dialog_material_background_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_forward30.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\tooltip_frame_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_search_api_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_btn_send.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_btn_send.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_icon_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_cast_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_dialog_material_background.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_skip_prev.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_pause_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_play.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_media_route_connecting_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/drawable/design_fab_background.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_white.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\background_white.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_media_route_connecting_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_button_connecting_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_play.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam6.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\spam6.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_tab_indicator_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam4.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\spam4.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_skip_prev.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_btn_send.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/smooch_btn_send.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_voice_search_api_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_vol_type_audiotrack_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_pause_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c4.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\c4.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\giphy.gif",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\giphy.gif"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_play.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\93d5973b68549bf3e55e2ed28a05996b42709890\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_sync_black_24dp.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/ic_sync_black_24dp.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_media_route_on_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
-        "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/drawable/navigation_empty_icon.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_cast_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_media_route_on_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_pause.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_forward10.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_collapse.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\ic_collapse.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ratingbar_small_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_spinner_textfield_background_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/creation/.android/build-cache/803970bfb82040f0a77be6ad4d10b9b84def3500/output/res/drawable/design_snackbar_background.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/rly.jpg",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/rly.jpg"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/c4.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/c4.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_switch_thumb_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_play_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_go_search_api_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_media_play_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_dialog_material_background_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam3.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\spam3.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam7.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\spam7.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/notification_tile_bg.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam6.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam6.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_media_route_connecting_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_text_cursor_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_stop.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_play_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_media_route_mono_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_rewind30.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_vector_test.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_rewind.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/credit_background.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/credit_background.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_info_black_24dp.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/ic_info_black_24dp.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_webview_toolbar.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\background_webview_toolbar.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_rewind.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\credit_background.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\credit_background.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_clear_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_media_route_connecting_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_primary_color.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/smooch_primary_color.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_btn_action_disabled.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_btn_action_disabled.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_forward.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_cast_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/ic_notifications_black_24dp.xml",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/ic_notifications_black_24dp.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_media_pause_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_list_selector_holo_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_btn_borderless_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
-        "source": "/Users/creation/.android/build-cache/6a32bd8f514d75b748ef2d23d39191ceae14abe5/output/res/drawable/cast_ic_notification_connecting.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_skip_ad_label_border.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\71032f262ac34fa8a609d528d116819d7a1cdd82\\output\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/trumpno.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/trumpno.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_sync_black_24dp.xml",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\ic_sync_black_24dp.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/notification_bg.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_bg_message.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_bg_message.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/no.jpg",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/no.jpg"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rly.jpg",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\rly.jpg"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_media_route_on_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_small_icon.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_close_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_play.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_rewind10.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_dialog_material_background_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_rewind10.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/background_white.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/background_white.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam3.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam3.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_cab_background_internal_bg.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\tooltip_frame_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/baphomet.jpg",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/baphomet.jpg"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_play_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/square.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/square.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam5.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam5.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_drawable_circle.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_drawable_circle.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam2.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam2.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_btn_action_ripple.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/smooch_btn_action_ripple.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_play_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_media_play_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_audiotrack_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_notifications_black_24dp.xml",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_pause.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_cab_background_top_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_button_connected_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_thumb.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_expanded_controller_seekbar_thumb.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_skip_next.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\93d5973b68549bf3e55e2ed28a05996b42709890\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_search_black_24dp.xml",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\ic_search_black_24dp.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_pause.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/notification_icon_background.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam1.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\spam1.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_text_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\baphomet.jpg",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\baphomet.jpg"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_text_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_stop.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_stop.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_play.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_item_background_holo_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_material_background_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_dialog_material_background_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_forward.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_seekbar_thumb_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_audiotrack_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_audiotrack_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_mini_controller_gradient_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\93d5973b68549bf3e55e2ed28a05996b42709890\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_notification_disconnect.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_textfield_search_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_bg_message.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/smooch_bg_message.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_btn_action_disabled.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/smooch_btn_action_disabled.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\spam2.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\spam2.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_mute.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_on_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_media_route_on_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_bg_darkener.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/smooch_bg_darkener.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/smooch_btn_action.xml",
-        "source": "/Users/creation/.android/build-cache/8b51c61fd7e815b58975273bde3e4f0fef62b651/output/res/drawable/smooch_btn_action.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
-        "source": "/Users/creation/.android/build-cache/2fc531903332b3dd635d25abe490ef6904cec210/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ratingbar_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ratingbar_indicator_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_ic_menu_overflow_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_dialog_close_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_dialog_close_dark.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_btn_check_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_info_black_24dp.xml",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\ic_info_black_24dp.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
-        "source": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/drawable/mr_ic_close_dark.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/notification_bg_low.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/drawable/abc_btn_radio_material.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam7.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam7.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_btn_action_ripple.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_btn_action_ripple.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Users/creation/.android/build-cache/d7f1e9a99d97d0d237fd0d0e0b827a7db98bf484/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_close_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\mr_ic_close_light.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/giphy.gif",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/giphy.gif"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_forward30.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam1.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam1.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\smooch_btn_action.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\3fd1955868387db590103797fb58bee1726aebc8\\output\\res\\drawable\\smooch_btn_action.xml"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable/spam4.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable/spam4.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_vol_type_audiotrack_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_vol_type_audiotrack_light.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_skip_ad_label_border.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_seekbar_track.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_media_pause_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_media_pause_light.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\48424f2c44a9c78236de0934891073a420ab1562\\output\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\square.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\square.png"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\f5a741562ae282f5e13984696fd2bc3d5af2a784\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\0d47e9ea0904d54fbe87aa586139a4d9e7f3277f\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\1272d68715bb97536edfa39da2f5e0196acf52f8\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no.jpg",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable\\no.jpg"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_dark.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_button_dark.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_expand.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\bb7442222c1ecde8d0a4d46e90508b7bb3622aab\\output\\res\\drawable\\ic_expand.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connected_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_button_connected_light.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_button_light.xml"
+    },
+    {
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_button_connecting_light.xml",
+        "source": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\drawable\\mr_button_connecting_light.xml"
     }
 ]

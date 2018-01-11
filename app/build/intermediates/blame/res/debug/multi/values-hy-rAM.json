@@ -1,378 +1,17 @@
 [
     {
-        "outputFile": "/Users/creation/Desktop/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy-rAM/values-hy-rAM.xml",
+        "outputFile": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hy-rAM\\values-hy-rAM.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 102,
-                    "endOffset": 153
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 102,
-                        "endOffset": 153
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 158,
-                    "endColumn": 107,
-                    "endOffset": 261
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 158,
-                        "endColumn": 107,
-                        "endOffset": 261
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 266,
-                    "endColumn": 122,
-                    "endOffset": 384
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 266,
-                        "endColumn": 122,
-                        "endOffset": 384
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 389,
-                    "endColumn": 100,
-                    "endOffset": 485
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 389,
-                        "endColumn": 100,
-                        "endOffset": 485
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 490,
-                    "endColumn": 109,
-                    "endOffset": 595
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 490,
-                        "endColumn": 109,
-                        "endOffset": 595
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 600,
-                    "endColumn": 88,
-                    "endOffset": 684
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 600,
-                        "endColumn": 88,
-                        "endOffset": 684
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 689,
                     "endColumn": 105,
-                    "endOffset": 790
+                    "endOffset": 156
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 689,
-                        "endColumn": 105,
-                        "endOffset": 790
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 795,
-                    "endColumn": 114,
-                    "endOffset": 905
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 795,
-                        "endColumn": 114,
-                        "endOffset": 905
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 910,
-                    "endColumn": 81,
-                    "endOffset": 987
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 910,
-                        "endColumn": 81,
-                        "endOffset": 987
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 992,
-                    "endColumn": 80,
-                    "endOffset": 1068
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 992,
-                        "endColumn": 80,
-                        "endOffset": 1068
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1073,
-                    "endColumn": 84,
-                    "endOffset": 1153
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1073,
-                        "endColumn": 84,
-                        "endOffset": 1153
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1158,
-                    "endColumn": 106,
-                    "endOffset": 1260
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1158,
-                        "endColumn": 106,
-                        "endOffset": 1260
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1265,
-                    "endColumn": 106,
-                    "endOffset": 1367
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1265,
-                        "endColumn": 106,
-                        "endOffset": 1367
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1372,
-                    "endColumn": 98,
-                    "endOffset": 1466
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1372,
-                        "endColumn": 98,
-                        "endOffset": 1466
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1471,
-                    "endColumn": 109,
-                    "endOffset": 1576
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1471,
-                        "endColumn": 109,
-                        "endOffset": 1576
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1581,
-                    "endColumn": 106,
-                    "endOffset": 1683
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1581,
-                        "endColumn": 106,
-                        "endOffset": 1683
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1688,
-                    "endColumn": 99,
-                    "endOffset": 1783
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1688,
-                        "endColumn": 99,
-                        "endOffset": 1783
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1788,
-                    "endColumn": 124,
-                    "endOffset": 1908
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1788,
-                        "endColumn": 124,
-                        "endOffset": 1908
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1913,
-                    "endColumn": 98,
-                    "endOffset": 2007
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1913,
-                        "endColumn": 98,
-                        "endOffset": 2007
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2012,
-                    "endColumn": 105,
-                    "endOffset": 2113
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -384,324 +23,362 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 2118,
-                    "endColumn": 94,
-                    "endOffset": 2208
+                    "startOffset": 161,
+                    "endColumn": 119,
+                    "endOffset": 276
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 161,
-                        "endColumn": 94,
-                        "endOffset": 251
+                        "endColumn": 119,
+                        "endOffset": 276
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 2213,
-                    "endColumn": 86,
-                    "endOffset": 2295
+                    "startOffset": 281,
+                    "endColumn": 121,
+                    "endOffset": 398
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 256,
-                        "endColumn": 86,
-                        "endOffset": 338
+                        "startOffset": 281,
+                        "endColumn": 121,
+                        "endOffset": 398
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 2300,
-                    "endColumn": 94,
-                    "endOffset": 2390
+                    "startOffset": 403,
+                    "endColumn": 120,
+                    "endOffset": 519
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 343,
-                        "endColumn": 94,
-                        "endOffset": 433
+                        "startOffset": 403,
+                        "endColumn": 120,
+                        "endOffset": 519
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 2395,
-                    "endColumn": 108,
-                    "endOffset": 2499
+                    "startOffset": 524,
+                    "endColumn": 94,
+                    "endOffset": 614
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 438,
-                        "endColumn": 108,
-                        "endOffset": 542
+                        "startOffset": 524,
+                        "endColumn": 94,
+                        "endOffset": 614
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 2504,
-                    "endColumn": 95,
-                    "endOffset": 2595
+                    "startOffset": 619,
+                    "endColumn": 86,
+                    "endOffset": 701
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 547,
-                        "endColumn": 95,
-                        "endOffset": 638
+                        "startOffset": 619,
+                        "endColumn": 86,
+                        "endOffset": 701
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 2600,
-                    "endColumn": 93,
-                    "endOffset": 2689
+                    "startOffset": 706,
+                    "endColumn": 94,
+                    "endOffset": 796
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 643,
-                        "endColumn": 93,
-                        "endOffset": 732
+                        "startOffset": 706,
+                        "endColumn": 94,
+                        "endOffset": 796
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 2694,
-                    "endColumn": 90,
-                    "endOffset": 2780
+                    "startOffset": 801,
+                    "endColumn": 108,
+                    "endOffset": 905
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 737,
-                        "endColumn": 90,
-                        "endOffset": 823
+                        "startOffset": 801,
+                        "endColumn": 108,
+                        "endOffset": 905
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 2785,
+                    "startOffset": 910,
                     "endColumn": 95,
-                    "endOffset": 2876
+                    "endOffset": 1001
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 828,
+                        "startOffset": 910,
                         "endColumn": 95,
-                        "endOffset": 919
+                        "endOffset": 1001
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 2881,
-                    "endColumn": 119,
-                    "endOffset": 2996
+                    "startOffset": 1006,
+                    "endColumn": 93,
+                    "endOffset": 1095
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 924,
-                        "endColumn": 119,
-                        "endOffset": 1039
+                        "startOffset": 1006,
+                        "endColumn": 93,
+                        "endOffset": 1095
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 3001,
-                    "endColumn": 114,
-                    "endOffset": 3111
+                    "startOffset": 1100,
+                    "endColumn": 90,
+                    "endOffset": 1186
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1044,
-                        "endColumn": 114,
-                        "endOffset": 1154
+                        "startOffset": 1100,
+                        "endColumn": 90,
+                        "endOffset": 1186
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 3116,
-                    "endColumn": 83,
-                    "endOffset": 3195
+                    "startOffset": 1191,
+                    "endColumn": 95,
+                    "endOffset": 1282
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1159,
-                        "endColumn": 83,
-                        "endOffset": 1238
+                        "startOffset": 1191,
+                        "endColumn": 95,
+                        "endOffset": 1282
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 3200,
-                    "endColumn": 85,
-                    "endOffset": 3281
+                    "startOffset": 1287,
+                    "endColumn": 119,
+                    "endOffset": 1402
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1243,
-                        "endColumn": 85,
-                        "endOffset": 1324
+                        "startOffset": 1287,
+                        "endColumn": 119,
+                        "endOffset": 1402
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 3286,
-                    "endColumn": 100,
-                    "endOffset": 3382
+                    "startOffset": 1407,
+                    "endColumn": 114,
+                    "endOffset": 1517
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1329,
-                        "endColumn": 100,
-                        "endOffset": 1425
+                        "startOffset": 1407,
+                        "endColumn": 114,
+                        "endOffset": 1517
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 3387,
-                    "endColumn": 87,
-                    "endOffset": 3470
+                    "startOffset": 1522,
+                    "endColumn": 83,
+                    "endOffset": 1601
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1430,
-                        "endColumn": 87,
-                        "endOffset": 1513
+                        "startOffset": 1522,
+                        "endColumn": 83,
+                        "endOffset": 1601
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 3475,
-                    "endColumn": 92,
-                    "endOffset": 3563
+                    "startOffset": 1606,
+                    "endColumn": 85,
+                    "endOffset": 1687
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1518,
-                        "endColumn": 92,
-                        "endOffset": 1606
+                        "startOffset": 1606,
+                        "endColumn": 85,
+                        "endOffset": 1687
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 3568,
-                    "endColumn": 81,
-                    "endOffset": 3645
+                    "startOffset": 1692,
+                    "endColumn": 100,
+                    "endOffset": 1788
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1692,
+                        "endColumn": 100,
+                        "endOffset": 1788
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1793,
+                    "endColumn": 114,
+                    "endOffset": 1903
+                },
+                "from": {
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1793,
+                        "endColumn": 114,
+                        "endOffset": 1903
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1908,
+                    "endColumn": 87,
+                    "endOffset": 1991
+                },
+                "from": {
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1908,
+                        "endColumn": 87,
+                        "endOffset": 1991
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1996,
+                    "endColumn": 92,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-hy-rAM\\values-hy-rAM.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2012,
-                        "endColumn": 81,
-                        "endOffset": 2089
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 3650,
-                    "endColumn": 100,
-                    "endOffset": 3746
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-hy-rAM/values-hy-rAM.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2094,
-                        "endColumn": 100,
-                        "endOffset": 2190
+                        "startOffset": 1996,
+                        "endColumn": 92,
+                        "endOffset": 2084
                     }
                 }
             }

@@ -1,18 +1,18 @@
 [
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi/dpad_up.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-mdpi/dpad_up.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\yellowstar.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\yellowstar.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi/yellowstar.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-mdpi/yellowstar.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\redstar.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\redstar.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi/greenstar.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-mdpi/greenstar.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\dpad_up.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\dpad_up.png"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/drawable-mdpi/redstar.png",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/drawable-mdpi/redstar.png"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\greenstar.png",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\drawable-mdpi\\greenstar.png"
     }
 ]

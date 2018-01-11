@@ -1,378 +1,17 @@
 [
     {
-        "outputFile": "/Users/creation/Desktop/MyApplication/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne-rNP/values-ne-rNP.xml",
+        "outputFile": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ne-rNP\\values-ne-rNP.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 104,
-                    "endOffset": 155
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 104,
-                        "endOffset": 155
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 160,
-                    "endColumn": 107,
-                    "endOffset": 263
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 160,
-                        "endColumn": 107,
-                        "endOffset": 263
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 268,
-                    "endColumn": 122,
-                    "endOffset": 386
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 268,
-                        "endColumn": 122,
-                        "endOffset": 386
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 391,
-                    "endColumn": 103,
-                    "endOffset": 490
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 391,
-                        "endColumn": 103,
-                        "endOffset": 490
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 495,
-                    "endColumn": 107,
-                    "endOffset": 598
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 495,
-                        "endColumn": 107,
-                        "endOffset": 598
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 603,
-                    "endColumn": 90,
-                    "endOffset": 689
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 603,
-                        "endColumn": 90,
-                        "endOffset": 689
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 694,
-                    "endColumn": 106,
-                    "endOffset": 796
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 694,
-                        "endColumn": 106,
-                        "endOffset": 796
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 801,
-                    "endColumn": 126,
-                    "endOffset": 923
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 801,
-                        "endColumn": 126,
-                        "endOffset": 923
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 928,
-                    "endColumn": 93,
-                    "endOffset": 1017
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 928,
-                        "endColumn": 93,
-                        "endOffset": 1017
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1022,
-                    "endColumn": 89,
-                    "endOffset": 1107
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1022,
-                        "endColumn": 89,
-                        "endOffset": 1107
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1112,
-                    "endColumn": 87,
-                    "endOffset": 1195
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1112,
-                        "endColumn": 87,
-                        "endOffset": 1195
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1200,
-                    "endColumn": 109,
-                    "endOffset": 1305
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1200,
-                        "endColumn": 109,
-                        "endOffset": 1305
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1310,
-                    "endColumn": 115,
-                    "endOffset": 1421
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1310,
-                        "endColumn": 115,
-                        "endOffset": 1421
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1426,
-                    "endColumn": 102,
-                    "endOffset": 1524
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1426,
-                        "endColumn": 102,
-                        "endOffset": 1524
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1529,
-                    "endColumn": 114,
-                    "endOffset": 1639
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1529,
-                        "endColumn": 114,
-                        "endOffset": 1639
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1644,
-                    "endColumn": 101,
-                    "endOffset": 1741
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1644,
-                        "endColumn": 101,
-                        "endOffset": 1741
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1746,
-                    "endColumn": 114,
-                    "endOffset": 1856
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1746,
-                        "endColumn": 114,
-                        "endOffset": 1856
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1861,
-                    "endColumn": 130,
-                    "endOffset": 1987
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 1861,
-                        "endColumn": 130,
-                        "endOffset": 1987
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1992,
-                    "endColumn": 111,
-                    "endOffset": 2099
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1992,
-                        "endColumn": 111,
-                        "endOffset": 2099
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2104,
                     "endColumn": 96,
-                    "endOffset": 2196
+                    "endOffset": 147
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -384,324 +23,362 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 2201,
-                    "endColumn": 102,
-                    "endOffset": 2299
+                    "startOffset": 152,
+                    "endColumn": 101,
+                    "endOffset": 249
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 152,
-                        "endColumn": 102,
-                        "endOffset": 250
+                        "endColumn": 101,
+                        "endOffset": 249
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 2304,
-                    "endColumn": 93,
-                    "endOffset": 2393
+                    "startOffset": 254,
+                    "endColumn": 104,
+                    "endOffset": 354
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 255,
-                        "endColumn": 93,
-                        "endOffset": 344
+                        "startOffset": 254,
+                        "endColumn": 104,
+                        "endOffset": 354
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 2398,
-                    "endColumn": 92,
-                    "endOffset": 2486
+                    "startOffset": 359,
+                    "endColumn": 111,
+                    "endOffset": 466
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 349,
-                        "endColumn": 92,
-                        "endOffset": 437
+                        "startOffset": 359,
+                        "endColumn": 111,
+                        "endOffset": 466
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 2491,
-                    "endColumn": 105,
-                    "endOffset": 2592
+                    "startOffset": 471,
+                    "endColumn": 102,
+                    "endOffset": 569
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 442,
-                        "endColumn": 105,
-                        "endOffset": 543
+                        "startOffset": 471,
+                        "endColumn": 102,
+                        "endOffset": 569
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 2597,
-                    "endColumn": 104,
-                    "endOffset": 2697
+                    "startOffset": 574,
+                    "endColumn": 93,
+                    "endOffset": 663
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 548,
-                        "endColumn": 104,
-                        "endOffset": 648
+                        "startOffset": 574,
+                        "endColumn": 93,
+                        "endOffset": 663
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 2702,
-                    "endColumn": 107,
-                    "endOffset": 2805
+                    "startOffset": 668,
+                    "endColumn": 92,
+                    "endOffset": 756
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 653,
-                        "endColumn": 107,
+                        "startOffset": 668,
+                        "endColumn": 92,
                         "endOffset": 756
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 2810,
-                    "endColumn": 100,
-                    "endOffset": 2906
+                    "startOffset": 761,
+                    "endColumn": 105,
+                    "endOffset": 862
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
                         "startOffset": 761,
-                        "endColumn": 100,
-                        "endOffset": 857
+                        "endColumn": 105,
+                        "endOffset": 862
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 2911,
-                    "endColumn": 102,
-                    "endOffset": 3009
+                    "startOffset": 867,
+                    "endColumn": 104,
+                    "endOffset": 967
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 862,
-                        "endColumn": 102,
-                        "endOffset": 960
+                        "startOffset": 867,
+                        "endColumn": 104,
+                        "endOffset": 967
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 3014,
-                    "endColumn": 108,
-                    "endOffset": 3118
+                    "startOffset": 972,
+                    "endColumn": 107,
+                    "endOffset": 1075
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 965,
-                        "endColumn": 108,
-                        "endOffset": 1069
+                        "startOffset": 972,
+                        "endColumn": 107,
+                        "endOffset": 1075
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 31,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 3123,
-                    "endColumn": 114,
-                    "endOffset": 3233
+                    "startOffset": 1080,
+                    "endColumn": 100,
+                    "endOffset": 1176
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1074,
-                        "endColumn": 114,
-                        "endOffset": 1184
+                        "startOffset": 1080,
+                        "endColumn": 100,
+                        "endOffset": 1176
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 32,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 3238,
-                    "endColumn": 88,
-                    "endOffset": 3322
+                    "startOffset": 1181,
+                    "endColumn": 102,
+                    "endOffset": 1279
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1189,
-                        "endColumn": 88,
-                        "endOffset": 1273
+                        "startOffset": 1181,
+                        "endColumn": 102,
+                        "endOffset": 1279
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 3327,
-                    "endColumn": 86,
-                    "endOffset": 3409
+                    "startOffset": 1284,
+                    "endColumn": 108,
+                    "endOffset": 1388
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1278,
-                        "endColumn": 86,
-                        "endOffset": 1360
+                        "startOffset": 1284,
+                        "endColumn": 108,
+                        "endOffset": 1388
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 3414,
-                    "endColumn": 95,
-                    "endOffset": 3505
+                    "startOffset": 1393,
+                    "endColumn": 114,
+                    "endOffset": 1503
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1365,
-                        "endColumn": 95,
-                        "endOffset": 1456
+                        "startOffset": 1393,
+                        "endColumn": 114,
+                        "endOffset": 1503
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 3510,
-                    "endColumn": 86,
-                    "endOffset": 3592
+                    "startOffset": 1508,
+                    "endColumn": 88,
+                    "endOffset": 1592
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1461,
-                        "endColumn": 86,
-                        "endOffset": 1543
+                        "startOffset": 1508,
+                        "endColumn": 88,
+                        "endOffset": 1592
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 3597,
-                    "endColumn": 94,
-                    "endOffset": 3687
+                    "startOffset": 1597,
+                    "endColumn": 86,
+                    "endOffset": 1679
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/c0b2f3521240ec8ffd529c279a0d8e68fcea36fa/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1548,
-                        "endColumn": 94,
-                        "endOffset": 1638
+                        "startOffset": 1597,
+                        "endColumn": 86,
+                        "endOffset": 1679
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 37,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 3692,
-                    "endColumn": 85,
-                    "endOffset": 3773
+                    "startOffset": 1684,
+                    "endColumn": 95,
+                    "endOffset": 1775
                 },
                 "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1684,
+                        "endColumn": 95,
+                        "endOffset": 1775
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1780,
+                    "endColumn": 103,
+                    "endOffset": 1879
+                },
+                "from": {
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1780,
+                        "endColumn": 103,
+                        "endOffset": 1879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1884,
+                    "endColumn": 86,
+                    "endOffset": 1966
+                },
+                "from": {
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1884,
+                        "endColumn": 86,
+                        "endOffset": 1966
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1971,
+                    "endColumn": 94,
+                    "endOffset": 2061
+                },
+                "from": {
+                    "file": "F:\\AndroidSDK\\.android\\build-cache\\b36905e19d9f4617085ae4ccbfa2bdc224e58dbc\\output\\res\\values-ne-rNP\\values-ne-rNP.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2104,
-                        "endColumn": 85,
-                        "endOffset": 2185
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 3778,
-                    "endColumn": 100,
-                    "endOffset": 3874
-                },
-                "from": {
-                    "file": "/Users/creation/.android/build-cache/2f5f9b720c9b4294b44d82fa4fd5d717acfe23c6/output/res/values-ne-rNP/values-ne-rNP.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2190,
-                        "endColumn": 100,
-                        "endOffset": 2286
+                        "startOffset": 1971,
+                        "endColumn": 94,
+                        "endOffset": 2061
                     }
                 }
             }

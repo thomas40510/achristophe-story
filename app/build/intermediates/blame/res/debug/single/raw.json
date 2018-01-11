@@ -1,34 +1,30 @@
 [
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/olive.mp4",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/olive.mp4"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\olive.mp4",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\raw\\olive.mp4"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/nogod.mp4",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/nogod.mp4"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nogod.mp4",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\raw\\nogod.mp4"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/flutterno.mp4",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/flutterno.mp4"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\vaderno.mp4",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\raw\\vaderno.mp4"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
-        "source": "/Users/creation/.android/build-cache/6518c9812f15db0a90c3478cf1ca876d001c2175/output/res/raw/gtm_analytics"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\rlynigga.mp4",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\raw\\rlynigga.mp4"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/rlynigga.mp4",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/rlynigga.mp4"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nope.mp4",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\raw\\nope.mp4"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/nope.mp4",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/nope.mp4"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\flutterno.mp4",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\raw\\flutterno.mp4"
     },
     {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/vaderno.mp4",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/vaderno.mp4"
-    },
-    {
-        "merged": "/Users/creation/Desktop/MyApplication/app/build/intermediates/res/merged/debug/raw/stromae.mp4",
-        "source": "/Users/creation/Desktop/MyApplication/app/src/main/res/raw/stromae.mp4"
+        "merged": "G:\\MEGA\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\raw\\stromae.mp4",
+        "source": "G:\\MEGA\\MyApplication\\app\\src\\main\\res\\raw\\stromae.mp4"
     }
 ]
